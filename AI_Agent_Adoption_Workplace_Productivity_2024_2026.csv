@@ -1,0 +1,524 @@
+Record_ID,Year,Country,Industry,Company_Size,Job_Role,Age_Group,AI_Agent_Usage,AI_Agent_Type,Tasks_Automated,Hours_Saved_Per_Week,Productivity_Change_Percent,AI_Skill_Level,Training_Hours,Monthly_AI_Cost,Job_Satisfaction,Workload_Level,Trust_in_AI,Human_AI_Collaboration,Error_Rate,Job_Risk_Level,Overall_AI_Impact
+AIW-0001,2025,France,Finance & Banking,Enterprise (1000+),Sales Representative,35-44,High,WORKFLOW AUTOMATION AGENT,43,8.4,91.6,Intermediate,15,44.39,7,Moderate,6,High,7.0,Moderate,Positive
+AIW-0002,2025,Germany,Energy & Utilities,Medium (51-250),Software Engineer,45-54,Very High,Coding Agent,31,9.0,8.1,Intermediate,2,161.8,8,Low,7,High,5.4,Very High,Positive
+AIW-0003,2025,Germany,Logistics & Supply Chain,Enterprise (1000+),Legal & Compliance Officer,55+,Low,Data Processing Agent,6,0.6,-11.2,Beginner,25,41.8,10,Moderate,6,Moderate,6.7,Low,Positive
+AIW-0004,2025,France,Logistics & Supply Chain,Enterprise (1000+),Legal & Compliance Officer,35-44,High,Content Generation Agent,16,,5.9,Advanced,59,42.4,5,High,6,High,8.2,Moderate,Neutral
+AIW-0005,2024,India,Finance & Banking,Enterprise (1000+),HR Specialist,25-34,High,Scheduling & Admin Agent,23,6.5,-8.4,Intermediate,0,27.01,,Moderate,5,Moderate,9.6,Moderate,Neutral
+AIW-0006,2025,United Arab Emirates,Consulting & Professional Services,Enterprise (1000+),Customer Support Agent,25-34,Moderate,Customer Service Agent,15,1.9,1.6,Intermediate,25,45.59,8,High,6,High,6.5,Very High,Neutral
+AIW-0007,2026,India,Manufacturing,Enterprise (1000+),Financial Analyst,25-34,Moderate,Research & Analysis Agent,14,1.1,9.6,Beginner,29,56.42,7,Moderate,5,Low,8.9,High,Positive 
+AIW-0008,2026,Netherlands,Healthcare,Medium (51-250),Product Manager,25-34,Very High,Multi-Agent System,70,17.2,28.8,Advanced,7,146.96,9,Moderate,7,High,8.6,Very High,Highly Positive
+AIW-0009,2026,United States,Finance & Banking,Medium (51-250),Marketing Specialist,18-24,High,Data Processing Agent,111,4.2,19.4,Advanced,5,106.39,7,High,7,High,9.2,Moderate,Positive
+AIW-0010,2025,Australia ,Healthcare,Medium (51-250),Software Engineer,35-44,High,Coding Agent,16,2.5,11.3,Advanced,0,94.77,6,High,5,Moderate,11.3,Very High,Neutral
+AIW-0011,2024,Brazil,Technology,Large (251-1000),Software Engineer,25-34,High,Coding Agent,16,3.5,8.3,Beginner,41,174.04,6,High,4,Low,11.5,Low,Positive
+AIW-0012,2026,Singapore,Government & Public Sector,Small (1-50),Operations Manager,35-44,Low,Multi-Agent System,5,1.0,19.9,Beginner,33,29.89,7,High,6,Moderate,5.8,High,Neutral
+AIW-0013,2026,United States,Telecommunications,Small (1-50),HR Specialist,25-34,Very High,Workflow Automation Agent,150,26.0,31.0,Advanced,14,118.18,9,Low,7,Excellent,4.4,Low,Highly Positive 
+AIW-0014,2024,Australia,Technology,Medium (51-250),Software Engineer,45–54,LOW,Coding Agent,2,1.0,6.0,Beginner,3,31.61,7,Moderate,4,Moderate,11.9,Low,Positive
+AIW-0015,2026,United States,Logistics & Supply Chain,Large (251-1000),Project Manager,45-54,High,Workflow Automation Agent,109,14.9,26.0,Advanced,13,103.16,8,Moderate,7,High,5.3,Low,Highly Positive
+AIW-0016,2024,France,Technology,Medium (51-250),Software Engineer,,Low,Coding Agent,7,1.8,-1.2,Beginner,5,26.16,5,Moderate,3,Low,10.1,Low,Neutral
+AIW-0017,2024,Mexico,Education,Large (251-1000),Software Engineer,45-54,Low,Coding Agent,3,0.6,-3.4,Intermediate,5,21.89,5,High,7,Moderate,7.2,Moderate,Neutral
+AIW-0018,2025,Canada,Consulting & Professional Services,Medium (51-250),Content Writer / Editor,35-44,High,Content Generation Agent,30,5.5,6.4,Intermediate,9,46.11,6,High,6,High,7.6,Very High,Neutral
+AIW-0019,2024,Germany,Consulting & Professional Services,Medium (51-250),Sales Representative,45-54,Low,Content Generation Agent,4,0.7,-4.2,Beginner,6,11.95,5,Low,4,Moderate,8.7,Low,Neutral
+AIW-0020,2024,PAKISTAN,Energy & Utilities,Enterprise (1000+),Customer Support Agent,25-34,Low,Customer Service Agent,5,1.0,-19.4,Beginner,0,20.71,7,Moderate,5,Low,7.5,Moderate,neutral
+AIW-0021,2026,United States,Technology,Large,Project Manager,25-34,Very High,Research & Analysis Agent,143,26.0,64.9,Advanced,36,156.65,10,Moderate,9,Excellent,5.4,Low,Highly Positive
+AIW-0022,2025,India,Healthcare,Large (251-1000),Healthcare Administrator,45-54,No Usage,No Agent,0,0.0,-7.0,Intermediate,1,0.0,9,Moderate,3,Low,,Low,Positive
+AIW-0023,2025,Pakistan,Healthcare,Medium (51-250),Software Engineer,45-54,Moderate,Workflow Automation Agent,10,3.2,14.6,Beginner,12,43.73,5,Very High,5,Low,7.2,Low,Positive
+AIW-0024,2025,Brazil,Healthcare,Small (1-50),Project Manager,35-44,Moderate,Scheduling & Admin Agent,28,5.2,7.7,Intermediate,17,18.2,8,Low,6,High,4.3,Low,Highly Positive
+AIW-0025,2026,United States,Consulting & Professional Services,Enterprise (1000+),Administrative Assistant,45-54,High,Multi-Agent System,39,2.5,4.8,Beginner,20,197.86,8,High,5,Moderate,12.1,High,Positive
+AIW-0026,2024,Mexico,Technology,Small (1-50),Customer Support Agent,25-34,High,Content Generation Agent,27,3.9,0.8,Mid,,61.31,5,High,,Moderate,10.5,Moderate,Neutral
+AIW-0027,2025,United States,Finance & Banking,Small (1-50),Software Engineer,35-44,Moderate,Coding Agent,18,9.9,8.1,Advanced,3,48.19,5,Moderate,7,High,5.5,Moderate,Positive
+AIW-0028,2026,Brazil,Logistics & Supply Chain,Medium (51-250),Marketing Specialist,45-54,Moderate,Multi-Agent System,17,4.0,-5.6,Advanced,46,116.24,6,High,6,High,6.6,High,Negative
+AIW-0029,2026,Canada,Healthcare,Enterprise (1000+),Customer Support Agent,35-44,High,Customer Service Agent,107,7.5,7.1,Advanced,86,44.89,7,Moderate,7,Excellent,6.2,Moderate,Positive
+AIW-0030,2025,Canada,Finance & Banking,Enterprise (1000+),Customer Support Agent,35-44,High,Multi-Agent System,29,5.9,18.9,Intermediate,3,112.97,6,Very High,5,Moderate,8.7,Moderate,Negative
+AIW-0031,2026,Nigeria,Manufacturing,Medium (51-250),Financial Analyst,35-44,Moderate,Data Processing Agent,23,7.7,16.2,Advanced,22,41.21,5,High,5,Moderate,6.8,High,Positive
+AIW-0032,2025,Netherlands,Government & Public Sector,Enterprise (1000+),Software Engineer,35-44,Moderate,Coding Agent,8,2.1,3.7,Advanced,25,41.09,9,Moderate,6,High,5.3,Low,Highly Positive
+AIW-0033,2025,United States,Education,Small (1-50),Data Analyst,18-24,Moderate,Research & Analysis Agent,6,2.2,15.4,Advanced,0,28.61,10,Moderate,8,High,7.9,Moderate,Highly Positive
+AIW-0034,2026,United Kingdom,Finance & Banking,Large (251-1000),Software Engineer,35-44,High,Multi-Agent System,62,26.0,33.7,Advanced,35,179.86,8,High,8,High,8.6,Moderate,Highly Positive
+AIW-0035,2026,Australia,Technology,Large (251-1000),Software Engineer,45-54,High,Coding Agent,13,4.5,6.0,Intermediate,20,103.68,5,Moderate,4,Moderate,11.2,Very High,Neutral
+AIW-0036,2025,Pakistan,Telecommunications,Medium (51-250),Sales Representative,35-44,Low,Research & Analysis Agent,2,0.5,-7.7,Beginner,8,27.63,8,Moderate,6,Moderate,9.6,High,Neutral
+AIW-0037,2026,France,technology,Medium (51-250),Marketing Specialist,45-54,High,Content Generation Agent,20,,7.4,Intermediate,30,67.05,4,Very High,7,High,,Moderate,Neutral
+AIW-0038,2025,Singapore,Manufacturing,Enterprise (1000+),Sales Representative,35-44,Very High,Content Generation Agent,,12.4,11.6,Advanced,30,101.6,10,Moderate,6,High,8.1,High,Positive
+AIW-0039,2026,Nigeria,Education,Large (251-1000),Teacher / Trainer,25-34,Moderate,Research & Analysis Agent,11,3.9,-3.5,Advanced,16,15.98,10,Moderate,5,High,17.2,Low,Neutral
+AIW-0040,2025,India,Healthcare,Large (251-1000),Financial Analyst,25-34,Low,Research & Analysis Agent,7,3.1,-5.3,Beginner,1,16.76,6,Moderate,5,Low,10.5,Moderate,Neutral
+AIW-0041,2024,India,Healthcare,Enterprise (1000+),Software Engineer,25-34,Very High,Coding Agent,39,11.9,21.1,Expert,40,213.41,10,High,9,Excellent,4.3,Low,Highly Positive
+AIW-0042,2025,United States,Finance & Banking,Medium (51-250),Healthcare Administrator,45-54,Moderate,Data Processing Agent,31,2.9,-9.7,Intermediate,45,40.42,6,Moderate,7,High,4.7,Low,Positive
+AIW-0043,2024,United States,Logistics & Supply Chain,Medium (51-250),Project Manager,55+,Moderate,Workflow Automation Agent,32,2.2,10.7,Beginner,16,73.34,6,Moderate,6,Moderate,9.4,Moderate,Positive
+AIW-0044,2026,Pakistan,Energy & Utilities,Small (1-50),Customer Support Agent,25–34,Low,customer service agent,9,1.2,24.4,Advanced,10,13.3,6,Moderate,8,Moderate,4.5,High,Positive
+AIW-0045,2026,Canada,Education,Enterprise (1000+),Teacher / Trainer,55+,Low,Research & Analysis Agent,5,1.0,8.7,Intermediate,20,15.92,8,Moderate,6,Moderate,5.2,Low,Positive
+AIW-0046,2025,Pakistan,Technology,Medium (51-250),Human Resources Specialist,45-54,Low,Content Generation Agent,3,1.4,-19.4,Beginner,13,15.87,3,Very High,,Low,16.9,High,Negative
+AIW-0047,2024,Australia,Logistics & Supply Chain,Medium (51-250),Product Manager,25-34,Moderate,Research & Analysis Agent,,1.3,-1.7,Intermediate,10,49.36,8,Low,6,Moderate,8.2,Low,Positive
+AIW-0048,2025,United States,Technology,Large (251-1000),Data Analyst,45-54,High,Research & Analysis Agent,36,32.2,6.3,Advanced,23,103.23,,High,7,Low,10.2,High,Neutral
+AIW-0049,2025,Singapore,Retail & E-commerce,Enterprise (1000+),Administrative Assistant,45-54,Very High,Scheduling & Admin Agent,55,8.1,21.9,Advanced,25,58.74,7,Moderate,5,High,7.5,High,Positive
+AIW-0050,2024,Germany,Technology,Large (251-1000),Software Engineer,35-44,High,Coding Agent,8,2.2,2.7,Advanced,21,203.08,7,High,7,Moderate,7.1,High,Positive
+AIW-0051,2026,United States,Technology,Medium (51-250),Customer Support Agent,18-24,Very High,Multi-Agent System,150,26.0,53.3,Expert,17,164.44,9,High,7,High,6.8,High,Highly Positive
+AIW-0052,2024,Canada,Finance & Banking,Large (251-1000),HR Specialist,25-34,Moderate,Content Generation Agent,55,11.9,19.7,Intermediate,26,38.8,8,Moderate,7,Moderate,7.4,Low,Highly Positive
+AIW-0053,2025,Singapore,Finance & Banking,Medium (51-250),Software Engineer,35-44,Very High,Workflow Automation Agent,48,10.4,15.8,Expert,11,147.63,9,Low,5,High,6.5,Moderate,Positive
+AIW-0054,2026,Australia,Finance & Banking,Small (1-50),Marketing Specialist,35-44,Moderate,Multi-Agent System,20,3.8,17.7,Advanced,40,72.26,10,Moderate,8,High,4.1,Moderate,Highly Positive
+AIW-0055,2026,United States,Finance & Banking,Small (1-50),Customer Support Agent,35-44,Moderate,Multi-Agent System,33,7.8,17.0,Intermediate,0,64.78,7,Low,6,High,4.5,Very High,Highly Positive
+AIW-0056,2025,United States,Finance & Banking,Medium (51-250),Customer Support Agent,18-24,High,Workflow Automation Agent,84,21.1,25.1,Expert,36,62.45,10,High,5,High,6.3,Low,Highly Positive
+AIW-0057,2026,India,Technology,Medium (51-250),Software Engineer,18-24,High,Research & Analysis Agent,10,2.4,-1.2,Expert,48,68.35,10,Moderate,7,Excellent,3.5,Low,Positive
+AIW-0058,2026,Germany,IT / Technology,Medium (51-250),Data Analyst,55+,High,Coding Agent,22,3.0,28.2,Advanced,36,67.66,6,Moderate,,High,2.7,High,Positive
+AIW-0059,2024,United Kingdom,Government & Public Sector,Large (251-1000),Content Writer / Editor,,Low,Content Generation Agent,5,1.2,-9.0,Beginner,0,12.9,5,High,2,Low,28.0,High,Negative
+AIW-0060,2024,U.K.,Technology,Large (251-1000),Financial Analyst,45-54,Low,Research & Analysis Agent,5,1.4,-3.0,Beginner,,23.23,7,Moderate,6,Moderate,6.6,Moderate,Neutral
+AIW-0061,2025,Australia,Manufacturing,Medium (51-250),Customer Support Agent,18-24,Moderate,Customer Service Agent,12,1.4,1.8,Beginner,6,24.2,,Moderate,5,Low,9.3,Moderate,Neutral
+AIW-0062,2025,India,Retail & E-commerce,enterprise (1000+),Marketing Specialist,35-44,High,Research & Analysis Agent,52,8.3,10.4,Expert,58,68.4,7,Moderate,8,High,5.8,Low,Positive
+AIW-0063,2025,Singapore,Healthcare,Large (251-1000),Healthcare Administrator,45-54,low,Multi-Agent System,6,1.2,12.5,Intermediate,12,38.39,8,High,6,Moderate,18.0,Low,Positive
+AIW-0064,2025,United States,Retail & E-commerce,Small (1-50),Administrative Assistant,45-54,Low,Workflow Automation Agent,9,2.3,8.2,Beginner,15,5.12,6,High,7,Moderate,13.1,High,Positive
+AIW-0065,2026,Singapore,Finance & Banking,Enterprise (1000+),Financial Analyst,25-34,Very High,Multi-Agent System,70,13.2,22.6,Advanced,20,215.32,6,Very High,7,Excellent,13.2,Very High,Neutral
+AIW-0066,2024,Germany,Energy & Utilities,Large (251-1000),HR Specialist,25-34,Low,Workflow Automation Agent,6,0.6,-15.3,Beginner,14,22.57,6,Low,3,Low,13.5,Low,Positive
+AIW-0067,2025,United States,Education,Large (251-1000),Sales Representative,25-34,Moderate,Research & Analysis Agent,19,5.1,7.0,Beginner,4,60.09,8,Moderate,4,Moderate,8.8,Moderate,Positive
+AIW-0068,2024,Brazil,Healthcare,Small (1-50),Marketing Specialist,35-44,Low,Research & Analysis Agent,3,1.1,10.5,Beginner,2,15.17,6,High,5,Low,9.5,High,Positive
+AIW-0069,2025,United States,Finance & Banking,Large (251-1000),Legal & Compliance Officer,35-44,High,Research & Analysis Agent,47,12.1,24.0,Intermediate,24,47.79,9,High,6,Moderate,8.0,Moderate,Positive
+AIW-0070,2025,Singapore,Healthcare,Medium (51-250),Sales Representative,25-34,Moderate,Content Generation Agent,23,1.7,-9.8,Beginner,11,22.19,4,High,4,Low,11.1,Moderate,Neutral
+AIW-0071,2026,Canada,Technology,Large (251-1000),Sales Representative,55+,High,Customer Service Agent,35,2.6,12.1,Beginner,11,53.67,7,Moderate,5,Moderate,13.7,High,Positive
+AIW-0072,2025,United Arab Emirates,Finance & Banking,Small (1-50),Teacher / Trainer,35-44,Low,Scheduling & Admin Agent,13,1.4,15.3,Intermediate,16,29.91,7,Low,6,High,4.1,Low,Positive
+AIW-0073,2025,United States,Logistics & Supply Chain,Small (1-50),Operations Manager,45-54,Low,Data Processing Agent,5,3.4,6.7,Beginner,10,11.01,5,High,5,Low,6.5,Moderate,Neutral
+AIW-0074,2026,United Kingdom,Education,Medium (51-250),Content Writer / Editor,35-44,High,Content Generation Agent,64,16.1,5.9,Intermediate,17,58.35,8,Low,5,High,12.7,High,Positive
+AIW-0075,2025,India,Education,Large (251-1000),Content Writer / Editor,25-34,Very High,Content Generation Agent,36,3.1,-8.9,Intermediate,6,133.25,7,High,5,Moderate,9.8,Very High,Neutral
+AIW-0076,2024,Canada,Finance & Banking,Large (251-1000),Marketing Specialist,35-44,Very High,Research & Analysis Agent,42,13.4,18.6,Intermediate,5,155.6,9,Low,5,High,8.3,High,Highly Positive
+AIW-0077,2026,Canada,Manufacturing,Small (1-50),Marketing Specialist,45-54,High,Content Generation Agent,41,9.0,6.2,Intermediate,3,46.31,7,High,6,High,5.6,High,Positive
+AIW-0078,2026,India,Retail & E-commerce,Mid-size (51-250),Software Engineer,25-34,High,Coding Agent,21,10.0,27.8,Advanced,19,172.57,7,Moderate,8,High,4.8,Low,Highly Positive
+AIW-0079,2024,Canada,Technology,Enterprise (1000+),Software Engineer,45-54,Moderate,Data Processing Agent,16,5.5,18.9,Intermediate,16,25.61,6,Moderate,5,High,7.7,Low,Highly Positive
+AIW-0080,2026,India,Energy & Utilities,Large Enterprise (1000+),Software Engineer,25-34,Very High,Coding Agent,44,10.9,34.8,Expert,33,211.13,9,High,9,Excellent,2.2,Low,Highly Positive
+AIW-0081,2024,India,Finance & Banking,Medium (51-250),Marketing Specialist,25-34,High,Content Generation Agent,20,4.6,6.1,Intermediate,14,43.21,7,Moderate,7,Moderate,6.9,Moderate,Positive
+AIW-0082,2025,South Africa,Telecommunications,Medium (51-250),Marketing Specialist,35 to 44,Moderate,Research & Analysis Agent,23,10.1,12.4,Advanced,43,15.25,8,Moderate,7,Moderate,6.8,Low,Highly Positive
+AIW-0083,2024,India,Energy & Utilities,Small (1-50),Financial Analyst,45-54,Low,Data Processing Agent,17,1.2,4.1,Intermediate,6,30.73,9,Low,6,Low,5.5,Low,Positive
+AIW-0084,2026,United States of America,Retail & E-commerce,Enterprise (1000+),Teacher / Trainer,35-44,High,Content Generation Agent,27,4.5,8.8,Advanced,34,88.23,6,Moderate,7,Excellent,7.3,Low,Neutral
+AIW-0085,2025,United States,Finance & Banking,Medium (51-250),Sales Representative,25-34,Moderate,Research & Analysis Agent,28,8.8,22.3,Intermediate,27,20.54,4,Low,6,Moderate,9.7,Moderate,Positive
+AIW-0086,2026,United States,Healthcare,Enterprise (1000+),Software Engineer,45-54,Moderate,Coding Agent,7,3.3,-0.4,Intermediate,18,107.57,7,Moderate,7,Moderate,7.2,Moderate,Positive
+AIW-0087,2025,Brazil,Technology,Large (251-1000),Content Writer / Editor,35-44,Moderate,Content Generation Agent,12,2.5,5.1,Intermediate,7,46.31,,High,3,Moderate,13.9,Moderate,Positive
+AIW-0088,2025,United States,Telecommunications,Medium (51-250),Financial Analyst,25-34,Very High,Data Processing Agent,63,3.8,9.4,Advanced,10,85.1,9,Low,5,High,9.0,Low,Highly Positive
+AIW-0089,2024,United States,Energy & Utilities,Small (1-50),Operations Manager,18-24,No Usage,No Agent,0,0.0,-6.0,Beginner,0,0.0,6,Moderate,3,Low,,Moderate,Positive
+AIW-0090,2026,Canada,Technology,Medium (51-250),Marketing Specialist,55+,High,Content Generation Agent,23,4.3,1.1,Intermediate,26,98.5,5,Moderate,4,Moderate,8.3,High,Neutral
+AIW-0091,2026,Singapore,finance & banking,Small (1-50),Software Engineer,55+,Very High,Coding Agent,35,6.3,18.3,Expert,,59.32,7,High,,Excellent,4.2,Moderate,Highly Positive
+AIW-0092,2025,India,Manufacturing,Medium (51-250),Customer Support Agent,45-54,High,Customer Service Agent,40,8.5,16.1,Advanced,38,154.48,6,High,7,High,6.2,Moderate,Positive
+AIW-0093,2026,Mexico,Education,Large (251-1000),Sales Representative,25-34,High,Content Generation Agent,28,6.3,13.2,Advanced,22,35.08,7,High,6,Excellent,8.2,High,Neutral
+AIW-0094,2026,Singapore,Consulting & Professional Services,Medium (51-250),Administrative Assistant,35-44,Very High,Multi-Agent System,88,22.7,31.8,Advanced,24,240.92,8,Moderate,7,Excellent,7.5,High,Positive
+AIW-0095,2025,Canada,Consulting & Professional Services,Enterprise (1000+),Customer Support Agent,45-54,Very High,Customer Service Agent,27,4.3,12.2,Advanced,-8,90.1,7,Very High,6,High,7.2,Moderate,Positive
+AIW-0096,2026,Pakistan,Finance & Banking,Large (251-1000),Customer Support Agent,35-44,High,Multi-Agent System,20,6.3,16.9,,28,99.96,6,Moderate,5,Moderate,9.6,Moderate,Positive
+AIW-0097,2025,United Kingdom,Healthcare,Enterprise (1000+),Data Analyst,25-34,Moderate,Research & Analysis Agent,10,2.9,6.7,Intermediate,11,32.74,4,High,6,Moderate,15.2,Moderate,Neutral
+AIW-0098,2025,Germany,Consulting & Professional Services,Large (251-1000),Marketing Specialist,25-34,High,Content Generation Agent,77,21.2,20.6,Advanced,28,41.9,8,Moderate,6,Excellent,11.8,Low,Positive
+AIW-0099,2025,Japan,Technology,Small (1-50),Project Manager,35-44,High,Workflow Automation Agent,44,5.8,0.3,Intermediate,9,34.15,6,High,,Moderate,7.2,Moderate,Negative
+AIW-0100,2026,United Kingdom,Healthcare,Enterprise (1000+),Healthcare Administrator,25-34,Moderate,Multi-Agent System,19,1.9,13.6,Intermediate,0,83.16,5,High,6,High,11.4,High,Neutral
+AIW-0101,2026,Nigeria,Consulting & Professional Services,Large (251-1000),SWE,45-54,Very High,Coding Agent,43,9.3,20.1,Intermediate,,86.94,5,Low,7,Moderate,7.6,High,Positive
+AIW-0102,2026,France,Consulting & Professional Services,Medium (51-250),Software Engineer,35-44,Moderate,Workflow Automation Agent,22,3.9,2.1,Beginner,12,44.38,7,Low,5,Moderate,9.7,High,Positive
+AIW-0103,2025,United Kingdom,Healthcare,Small (1-50),Healthcare Administrator,25-34,High,Multi-Agent System,42,4.6,-9.5,Intermediate,3,131.81,4,High,6,Low,13.6,High,Negative
+AIW-0104,2025,South Africa,Technology,Large (251-1000),Operations Manager,35-44,Moderate,Workflow Automation Agent,27,3.0,-5.8,Intermediate,36,57.48,6,High,4,Moderate,19.8,Low,Neutral
+AIW-0105,2026,United Kingdom,Telecommunications,Large (251-1000),Financial Analyst,45-54,High,Multi-Agent System,24,18.9,26.4,Beginner,17,113.02,7,High,7,Moderate,6.9,High,Positive
+AIW-0106,2026,Nigeria,Technology,Large (251-1000),Software Engineer,45-54,Very High,Multi-Agent System,63,7.5,15.5,Advanced,18,187.46,7,High,6,Excellent,8.7,Moderate,Positive
+AIW-0107,2025,Germany,Finance & Banking,Large (251-1000),Customer Support Agent,45-54,Moderate,Customer Service Agent,26,2.2,3.7,Intermediate,19,50.19,4,High,7,Moderate,7.6,High,Neutral
+AIW-0108,2026,United States,Technology,Enterprise (1000+),Software Engineer,45-54,Very High,Coding Agent,30,2.1,7.8,Intermediate,0,168.47,5,Moderate,7,High,4.4,Low,Positive
+AIW-0109,2026,South Africa,Technology,Medium (51-250),Administrative Assistant,25-34,Moderate,Scheduling & Admin Agent,54,5.2,26.0,Advanced,6,23.73,6,High,6,High,8.5,Moderate,Positive
+AIW-0110,2024,France,Retail & E-commerce,Large (251-1000),Operations Manager,45-54,Moderate,Workflow Automation Agent,21,2.2,5.8,Intermediate,5,27.89,4,Very High,4,Low,13.4,Moderate,Negative
+AIW-0111,2025,United States,Technology,Large (251-1000),Customer Support Agent,45-54,Moderate,Customer Service Agent,38,4.2,1.4,Advanced,72,29.85,7,Very High,5,Moderate,16.4,Low,Neutral
+AIW-0112,2025,Canada,Technology,Large (251-1000),Software Engineer,35-44,High,Coding Agent,10,2.5,-4.5,Beginner,12,92.34,6,High,4,Moderate,19.7,Moderate,Negative
+AIW-0113,2025,Pakistan,Technology,Large (251-1000),Financial Analyst,45-54,High,Multi-Agent System,35,12.4,28.8,Intermediate,25,108.81,7,High,5,Moderate,7.7,Very High,Positive
+AIW-0114,2025,Nigeria,Retail & E-commerce,Enterprise (1000+),HR Specialist,45-54,Moderate,Multi-Agent System,29,11.1,19.2,Intermediate,11,232.51,,Moderate,6,High,7.7,High,Positive
+AIW-0115,2024,United States,Healthcare,Small (1-50),Software Engineer,25-34,Moderate,Coding Agent,8,3.6,14.2,Beginner,7,106.95,9,Low,5,Low,5.8,Moderate,Highly Positive
+AIW-0116,2026,India,Technology,Large (251-1000),Operations Manager,55+,High,Workflow Automation Agent,36,3.7,10.5,Advanced,7,23.78,6,Moderate,10,Excellent,5.8,High,Positive
+AIW-0117,2026,Brazil,Manufacturing,Medium (51-250),Software Engineer,35-44,High,Multi-Agent System,119,26.0,41.0,Expert,28,242.25,9,Moderate,7,Excellent,8.7,Moderate,Highly Positive
+AIW-0118,2026,United States,Education,Small (1-50),Operations Manager,25-34,High,Multi-Agent System,66,8.9,2.7,Advanced,,122.56,7,High,6,High,17.6,High,Neutral
+AIW-0119,2026,France,Energy & Utilities,Large (251-1000),Operations Manager,35-44,High,Data Processing Agent,112,26.0,42.6,Expert,71,83.71,9,Low,8,High,,Low,Highly Positive
+AIW-0120,2025,India,Finance & Banking,Enterprise (1000+),Data Analyst,55+,Moderate,Research & Analysis Agent,8,2.8,7.9,Intermediate,335,157.64,6,Very High,6,Moderate,10.9,Moderate,Positive
+AIW-0121,2024,India,Telecommunications,Large (251-1000),Software Engineer,25-34,Moderate, Coding Agent,13,5.2,12.4,Intermediate,0,54.12,7,Low,4,Moderate,9.7,Moderate,Highly Positive
+AIW-0122,2025,Germany,Consulting & Professional Services,Enterprise (1000+),Software Engineer,,High,Workflow Automation Agent,39,6.7,14.0,Intermediate,8,82.26,7,Moderate,5,Moderate,9.3,Moderate,Positive
+AIW-0123,2026,Mexico,Education,Small (1-50),Teacher / Trainer,25-34,High,Content Generation Agent,40,8.1,14.3,Intermediate,25,38.59,8,Moderate,7,High,8.7,Moderate,Positive
+AIW-0124,2024,Canada,Finance & Banking,Enterprise (1000+),Software Engineer,45-54,Moderate,Coding Agent,16,5.0,-0.5,Intermediate,17,139.22,6,Very High,4,Moderate,8.6,Moderate,Neutral
+AIW-0125,2025,Mexico,Retail & E-commerce,Medium (51-250),Marketing Specialist,45-54,Low,Content Generation Agent,3,0.2,-8.1,Beginner,12,15.2,5,Very High,3,Low,17.0,Moderate,Negative
+AIW-0126,2026,South Africa,Government & Public Sector,Small (1-50),Operations Manager,25-34,Low,Scheduling & Admin Agent,8,1.2,10.2,Intermediate,22,7.37,6,High,8,Moderate,8.2,Low,Positive
+AIW-0127,2026,United States,Technology,Medium (51-250),Financial Analyst,45-54,Moderate,Research & Analysis Agent,22,6.6,9.0,Intermediate,39,71.16,5,Very High,8,High,6.4,Low,Positive
+AIW-0128,2026,South Africa,Healthcare,Medium (51-250),Financial Analyst,35-44,Low,Multi-Agent System,15,1.9,-4.4,Beginner,17,28.82,7,High,2,Low,8.3,Low,Positive
+AIW-0129,2026,United States,Telecommunications,Enterprise (1000+),Administrative Assistant,25-34,Very High,Scheduling & Admin Agent,42,8.5,5.3,Advanced,24,53.06,6,Moderate,6,High,8.8,Very High,Neutral
+AIW-0130,2026,France,Technology,Small (1-50),Software Engineer,18-24,High,Coding Agent,28,14.9,34.0,Advanced,,59.33,8,Moderate,6,High,3.9,Moderate,Highly Positive
+AIW-0131,2024,United States,Logistics & Supply Chain,Medium (51-250),Software Engineer,35-44,Low,Coding Agent,3,1.2,13.8,Beginner,8,18.25,8,Moderate,4,Low,6.6,Moderate,Positive
+AIW-0132,2024,India,Logistics & Supply Chain,small (1-50),Sales Representative,45-54,No Usage,No Agent,0,0.0,3.0,Beginner,0,0.0,7,Low,3,Low,,Moderate,Positive
+AIW-0133,2025,United States,Retail & E-commerce,Small (1-50),Software Engineer,25-34,High,Coding Agent,41,15.2,11.8,Intermediate,0,155.48,10,Moderate,3,Moderate,14.5,Low,Positive
+AIW-0134,2025,India,Government & Public Sector,Medium (51-250),Marketing Specialist,25-34,Very High,Research & Analysis Agent,33,3.2,6.5,Intermediate,9,205.43,4,High,5,Moderate,14.3,High,Neutral
+AIW-0135,2025,United States,Energy & Utilities,Medium (51-250),Data Analyst,25-34,No Usage,No Agent,0,0.0,5.5,Beginner,2,0.0,7,High,3,Low,,Low,Neutral
+AIW-0136,2024, Singapore,Logistics & Supply Chain,Enterprise (1000+),Data Analyst,35-44,VERY HIGH,Research & Analysis Agent,61,9.7,17.8,Expert,38,144.7,,High,7,Excellent,7.5,Low,Highly Positive
+AIW-0137,2025,United States,Consulting & Professional Services,Medium (51-250),Project Manager,25-34,Very High,Workflow Automation Agent,77,8.1,6.1,Expert,6,162.29,7,Very High,8,High,5.8,Moderate,Positive
+AIW-0138,2025,United States,Education,Large (251-1000),Administrative Assistant,45-54,High,Content Generation Agent,27,12.4,8.7,Advanced,16,72.43,9,Low,8,High,7.5,Very High,Positive
+AIW-0139,2025,India,Finance & Banking,Enterprise (1000+),Software Engineer,25-34,Very High,Coding Agent,28,11.3,30.9,Expert,45,145.73,10,Low,9,Excellent,7.5,Low,Highly Positive
+AIW-0140,2026,India,Finance & Banking,Large (251-1000),Sales Representative,18-24,Very High,Content Generation Agent,55,7.7,28.1,Advanced,11,68.54,7,Very High,7,Moderate,16.7,Low,Positive
+AIW-0141,2026,France,Education,Large (251-1000),Teacher / Trainer,25-34,Moderate,Content Generation Agent,18,4.1,1.7,Intermediate,0,6075.96,3,High,7,Moderate,11.2,High,Neutral
+AIW-0142,2026,South Africa,Technology,Enterprise (1000+),Software Engineer,55+,Very High,Research & Analysis Agent,42,5.2,7.7,Advanced,6,67.82,8,Low,5,Moderate,9.2,Moderate,Positive
+AIW-0143,2025,Japan,Government & Public Sector,Enterprise (1000+),Data Analyst,25-34,Very High,Data Processing Agent,116,26.0,37.5,Expert,67,107.99,8,Low,8,Excellent,6.3,Low,Highly Positive
+AIW-0144,2026,Canada,Manufacturing,Large (251-1000),Data Analyst,25-34,Very High,Multi-Agent System,85,26.0,51.7,Intermediate,21,145.84,8,Moderate,10,Moderate,7.6,Very High,Highly Positive
+AIW-0145,2026,United Kingdom,Technology,Medium (51-250),Financial Analyst,25-34,Very High,Data Processing Agent,106,,46.0,Expert,45,294.46,9,Moderate,9,Excellent,6.1,Low,Highly Positive
+AIW-0146,2024,Australia,Manufacturing,Medium (51-250),Marketing Specialist,25-34,Low,Content Generation Agent,5,0.8,-5.5,Beginner,0,7.9,7,High,5,Low,56.0,Moderate,Neutral
+AIW-0147,2026,Australia,Government & Public Sector,Medium (51-250),Finance Analyst,45-54,Moderate,Research & Analysis Agent,34,6.1,8.2,Intermediate,8,85.73,7,Moderate,7,Excellent,6.9,Moderate,Positive
+AIW-0148,2025,united kingdom,Healthcare,Enterprise (1000+),Legal & Compliance Officer,55+,High,Research & Analysis Agent,27,12.8,33.4,Intermediate,19,159.26,7,High,6,High,13.2,Moderate,Highly Positive
+AIW-0149,2025,Germany,Consulting & Professional Services,Medium (51-250),Marketing Specialist,25-34,High,Content Generation Agent,9,2.1,-9.3,Beginner,18,63.78,,Moderate,4,Moderate,8.5,Moderate,Neutral
+AIW-0150,2024,United States,Technology,Medium (51-250),Data Analyst,45-54,Low,Workflow Automation Agent,5,0.7,-5.7,Beginner,3,20.72,4,Very High,4,Low,11.5,High,Negative
+AIW-0151,2024,India,Education,Enterprise (1000+),Project Manager,45-54,No Usage,No Agent,0,0.0,-2.5,Intermediate,11,0.0,5,High,4,Low,,Low,Positive
+AIW-0152,2026,France,Healthcare,Small (1-50),Healthcare Administrator,35-44,Moderate,Workflow Automation Agent,11,2.7,10.6,Intermediate,11,37.33,7,Very High,5,Moderate,9.5,Very High,Negative
+AIW-0153,2026,India,Telecommunications,Large (251-1000),Product Manager,35-44,High,Content Generation Agent,33,12.1,6.7,Advanced,33,72.81,7,High,6,Excellent,7.4,Very High,Positive
+AIW-0154,2026,United States,Manufacturing,Large (251-1000),Financial Analyst,25-34,High,Multi-Agent System,83,26.0,43.7,Expert,15,157.93,10,Moderate,7,Excellent,9.6,Moderate,highly positive
+AIW-0155,2025,Germany,Logistics & Supply Chain,Large (251-1000),Sales Representative,55+,High,Research & Analysis Agent,38,6.9,4.7,Intermediate,28,84.43,9,Moderate,7,Moderate,9.4,Low,Positive
+AIW-0156,2024,United States,Technology,Enterprise (1000+),Project Manager,55+,Moderate,Workflow Automation Agent,11,2.2,7.6,Intermediate,6,52.1,4,Low,3,Low,13.5,Low,Neutral
+AIW-0157,2025,India,Logistics & Supply Chain,Large (251-1000),Project Manager,45-54,Low,Multi-Agent System,17,3.6,13.7,Beginner,14,109.35,6,High,3,Low,11.9,Moderate,Neutral
+AIW-0158,2024,Mexico,Consulting & Professional Services,Small (1-50),Marketing Specialist,55+,Moderate,Content Generation Agent,26,10.1,-8.5,Intermediate,2,16.18,4,High,4,Moderate,12.8,Moderate,Negative
+AIW-0159,2025,Singapore,Logistics & Supply Chain,Large (251-1000),Content Writer / Editor,18-24,Moderate,Content Generation Agent,8,1.2,-3.5,Intermediate,7,25.2,6,High,6,Moderate,7.6,High,Neutral
+AIW-0160,2024,Singapore,Manufacturing,Enterprise (1000+),Operations Manager,35-44,Moderate,Research & Analysis Agent,11,2.7,-18.0,Beginner,13,46.88,6,Very High,4,Moderate,12.3,Low,Neutral
+AIW-0161,2026,Germany,Government & Public Sector,Enterprise (1000+),Software Engineer,25-34,High,Coding Agent,15,4.3,4.5,advanced,15,155.93,6,Moderate,6,High,3.1,Moderate,Positive
+AIW-0162,2025,United States of America,Government & Public Sector,Large (251-1000),Legal & Compliance Officer,35-44,Moderate,Content Generation Agent,14,1.3,-4.6,Intermediate,17,3219.23,5,Moderate,3,Moderate,20.6,High,Negative
+AIW-0163,2026,South Africa,Manufacturing,Small (1-50),Financial Analyst,35-44,high,Multi-Agent System,38,4.5,-1.1,Intermediate,4,201.58,3,High,6,Moderate,12.2,High,Negative
+AIW-0164,2024,United Kingdom,Manufacturing,Enterprise (1000+),HR Specialist,55+,Moderate,Workflow Automation Agent,13,4.2,-13.1,Beginner,19,47.65,5,Low,5,Low,10.0,Moderate,Neutral
+AIW-0165,2026,Mexico,Healthcare,Large (251-1000),Healthcare Administrator,18-24,High,Scheduling & Admin Agent,67,12.6,27.7,Advanced,8,43.05,8,High,6,High,6.5,Low,Positive
+AIW-0166,2025,India,Technology,Enterprise (1000+),Software Engineer,35-44,Very High,Coding Agent,38,26.0,39.5,Expert,20,171.4,7,Moderate,7,High,5.9,Moderate,Positive
+AIW-0167,2024,United Kingdom,Logistics & Supply Chain,Enterprise (1000+),Data Analyst,35-44,High,Data Processing Agent,51,4.1,-4.1,Advanced,41,193.6,8,High,7,High,7.2,Moderate,Positive
+AIW-0168,2025,Canada,Technology,Large (251-1000),Financial Analyst,55+,Moderate,Data Processing Agent,10,3.6,5.0,Beginner,10,132.22,7,High,4,Moderate,6.2,High,Positive
+AIW-0169,2025,Canada,Technology,Medium (51-250),HR Specialist,25-34,High,Scheduling & Admin Agent,14,1.6,-2.2,Intermediate,26,36.7,7,High,6,High,7.3,High,Neutral
+AIW-0170,2025,Canada,Finance & Banking,Small (1-50),Customer Support Agent,25-34,High,CUSTOMER SERVICE AGENT,35,3.8,1.3,Intermediate,9,113.05,3,High,,Moderate,10.7,Moderate,Negative
+AIW-0171,2025,United Kingdom,Finance & Banking,Enterprise (1000+),Software Engineer,35-44,High,Coding Agent,391,0.4,9.5,Expert,11,244.38,9,High,7,High,9.9,Low,Positive
+AIW-0172,2026,Canada ,Consulting & Professional Services,Small (1-50),Software Engineer,35-44,Moderate,Coding Agent,10,5.0,22.4,Advanced,12,58.62,9,Moderate,7,Moderate,3.5,Low,Positive
+AIW-0173,2024,United States,Technology,Medium (51-250),Software Engineer,25-34,Moderate,Coding Agent,23,8.8,11.4,Intermediate,21,46.47,6,High,8,High,6.6,Low,Positive
+AIW-0174,2025,Germany,Technology,Enterprise (1000+),Software Engineer,18-24,Very High,Coding Agent,49,23.6,36.1,Advanced,18,519.66,8,Low,7,High,7.5,High,Highly Positive
+AIW-0175,2026,Australia,Technology,Enterprise (1000+),HR Specialist,25-34,VERY HIGH,Multi-Agent System,56,3.2,1.0,Beginner,20,281.87,6,High,5,Moderate,13.5,High,Neutral
+AIW-0176,2025,Canada,Technology,Large (251-1000),Sales Representative,35-44,Moderate,Multi-Agent System,21,8.0,15.7,Advanced,34,73.05,7,Moderate,7,Moderate,8.4,High,Positive
+AIW-0177,2024,France,Consulting & Professional Services,Small (1-50),Legal & Compliance Officer,35-44,Moderate,Content Generation Agent,22,1.3,-6.6,Beginner,10,17.59,4,Very High,3,Low,8.6,Moderate,Negative
+AIW-0178,2024,Netherlands,Finance & Banking,Enterprise (1000+),Marketing Specialist,35-44,High,Content Generation Agent,77,13.6,10.7,Expert,57,63.37,7,High,5,High,14.1,Low,Positive
+AIW-0179,2026,Canada,Retail & E-commerce,Large (251-1000),Data Analyst,25-34,High,Multi-Agent System,105,26.0,42.3,Expert,37,98.23,10,Moderate,8,Excellent,5.5,Low,Highly Positive
+AIW-0180,2026,Nigeria,Technology,Large (251-1000),Operations Manager,35-44,High,Multi-Agent System,67,9.4,23.4,Expert,45,265.99,6,High,7,Excellent,10.3,Moderate,Neutral
+AIW-0181,2025,Mexico,Finance & Banking,Enterprise (1000+),Software Engineer,35-44,High,Coding Agent,14,10.3,19.7,Expert,52,104.53,9,Moderate,5,High,5.8,Low,Highly Positive
+AIW-0182,2025,Pakistan,Healthcare,Small (1-50),Healthcare Administrator,45-54,Moderate,Scheduling & Admin Agent,40,5.4,-5.4,Expert,10,12.74,6,Moderate,6,High,6.3,High,Neutral
+AIW-0183,2026,Brazil,Education,Large (251-1000),Financial Analyst,45-54,Moderate,Data Processing Agent,26,7.7,29.5,Advanced,27,99.35,5,High,7,High,3.0,Moderate,positive
+AIW-0184,2025,Canada,Government & Public Sector,Enterprise (1000+),Marketing Specialist,45-54,No Usage,No Agent,0,0.0,-2.7,Beginner,0,0.0,6,Moderate,5,Low,,Moderate,Positive
+AIW-0185,2025,Australia,Finance & Banking,Small (1-50),Customer Support Agent,18-24,High,Customer Service Agent,29,4.5,14.6,Intermediate,6,64.12,7,High,4,High,11.9,High,Neutral
+AIW-0186,2025,Japan,Finance & Banking,Medium (51-250),Customer Support Agent,25-34,Low,Customer Service Agent,6,2.1,6.4,Intermediate,3,16.55,6,High,6,Moderate,16.7,High,Neutral
+AIW-0187,2026,India,Finance & Banking,Medium (51-250),Product Manager,35-44,High,Content Generation Agent,59,16.0,26.4,Advanced,19,42.37,7,Very High,6,Moderate,9.0,Moderate,Neutral
+AIW-0188,2026,United States,Healthcare,Medium (51-250),Administrative Assistant,25-34,Moderate,Workflow Automation Agent,19,2.9,8.7,Intermediate,35,18.05,8,Moderate,5,High,16.3,Moderate,Positive
+AIW-0189,2024,United Kingdom,Education,Small (1-50),Project Manager,35-44,Low,Content Generation Agent,,0.7,-3.9,Beginner,0,14.48,5,High,4,Low,8.7,Low,Neutral
+AIW-0190,2026,Pakistan,Education,Medium (51-250),HR Specialist,25-34,Moderate,Scheduling & Admin Agent,18,2.6,-10.0,Intermediate,3,43.57,7,High,4,Moderate,11.5,High,Positive
+AIW-0191,2024,Australia,Finance & Banking,Enterprise (1000+),Financial Analyst,25-34,Moderate,Data Processing Agent,12,2.6,12.1,Intermediate,43,62.77,9,High,5,Moderate,5.0,Low,Positive
+AIW-0192,2025,India,Manufacturing,Small (1-50),Customer Support Agent,45-54,Low,Customer Service Agent,6,1.4,2.8,Intermediate,13,22.11,4,Very High,5,Moderate,11.2,High,Neutral
+AIW-0193,2024,India,Healthcare,Medium (51-250),Content Writer / Editor,25-34,Low,Content Generation Agent,6,1.9,7.6,Beginner,3,15.7,6,Moderate,3,Low,14.5,High,Neutral
+AIW-0194,2024,Japan,Telecommunications,Small (1-50),Software Engineer,45-54,Low,Coding Agent,3,0.7,1.7,Intermediate,6,21.31,7,High,4,Low,6.1,Moderate,Positive
+AIW-0195,2026,united states,Technology,Medium (51-250),Content Writer / Editor,25-34,Very High,Multi-Agent System,107,12.7,13.1,Advanced,19,156.27,6,Moderate,7,Excellent,11.2,Moderate,Positive
+AIW-0196,2026,Canada,Technology,Enterprise (1000+),Operations Manager,35-44,Very High,Multi-Agent System,74,22.7,43.7,Advanced,45,167.16,8,Moderate,6,High,7.8,Low,Highly Positive
+AIW-0197,2026,South Africa,Telecom,Medium,Marketing Specialist,25-34,High,Data Processing Agent,89,15.3,45.1,Expert,21,128.18,10,High,7,High,7.7,Low,Highly Positive
+AIW-0198,2024,United States,Telecommunications,Large (251-1000),Product Manager,25-34,High,Content Generation Agent,34,2.5,7.2,Intermediate,19,76.17,4,Very High,6,Moderate,8.5,Moderate,Neutral
+AIW-0199,2026,United States,Government & Public Sector,Enterprise (1000+),Product Manager,25-34,Moderate,Multi-Agent System,28,14.1,17.6,Expert,63,124.46,0,Moderate,5,Excellent,7.0,Moderate,Highly Positive
+AIW-0200,2026,Mexico,Telecommunications,Enterprise (1000+),Software Engineer,25-34,High,Multi-Agent System,65,22.4,18.8,Expert,18,185.99,9,Moderate,6,High,5.5,Low,Highly Positive
+AIW-0201,2024,United Arab Emirates,Manufacturing,Small (1-50),Financial Analyst,25-34,Moderate,Research & Analysis Agent,6,2.4,-0.9,Beginner,0,24.13,7,Moderate,3,Low,14.9,Low,Neutral
+AIW-0202,2026,United States,Healthcare,Medium (51-250),Content Writer / Editor,25-34,Very High,Content Generation Agent,63,19.7,25.8,Advanced,12,96.87,4,High,4,High,11.7,Very High,Neutral
+AIW-0203,2026,United States,Government & Public Sector,Enterprise (1000+),Legal & Compliance Officer,25-34,Very High,Research & Analysis Agent,32,6.4,9.1,Advanced,21,109.14,,Very High,5,High,9.5,Very High,Negative
+AIW-0204,2026,Australia,Manufacturing,Large (251-1000),Customer Support Agent,25-34,Moderate,Customer Service Agent,12,2.4,3.6,Advanced,47,30.79,9,Moderate,6,Excellent,6.6,Low,Highly Positive
+AIW-0205,2026,United States,Technology,Medium (51-250),Software Developer,45-54,Very High,Multi-Agent System,51,18.5,30.7,Expert,47,296.42,9,Low,6,Excellent,5.5,High,Highly Positive
+AIW-0206,2026,India,Telecommunications,Enterprise (1000+),Content Writer / Editor,35-44,Moderate,Content Generation Agent,14,5.5,19.4,Advanced,28,44.16,6,Very High,3,Moderate,11.6,Moderate,Neutral
+AIW-0207,2026,Germany,Healthcare,Enterprise (1000+),Legal & Compliance Officer,35-44,High,Research & Analysis Agent,22,4.4,15.8,EXPERT,113,124.11,6,High,9,Excellent,5.0,Moderate,Positive
+AIW-0208,2024,United Arab Emirates,Technology,Small (1-50),Software Engineer,35-44,High,Coding Agent,22,4.3,12.4,Intermediate,3,58.77,6,Moderate,4,Moderate,9.0,Moderate,Neutral
+AIW-0209,2025,Japan,Consulting & Professional Services,Large (251-1000),Operations Manager,25-34,High,Workflow Automation Agent,37,2.8,-7.6,Beginner,0,131.43,6,Very High,6,Moderate,9.5,Moderate,Neutral
+AIW-0210,2026,Germany,Energy & Utilities,Enterprise (1000+),Software Engineer,25-34,Moderate,Multi-Agent System,28,14.7,32.9,Expert,32,127.91,10,Low,6,Moderate,8.1,Low,Highly Positive
+AIW-0211,2026,India,Manufacturing,Small (1-50),Administrative Assistant,35-44,Moderate,Scheduling & Admin Agent,24,2.1,15.2,Beginner,11,28.41,6,High,5,Low,7.8,Moderate,Positive
+AIW-0212,2025,United States,Finance & Banking,Enterprise (1000+),Marketing Specialist,45-54,High,Multi-Agent System,76,22.3,22.7,Beginner,0,253.83,5,Moderate,4,Low,14.4,Moderate,Positive
+AIW-0213,2026,Nigeria,Technology,Small (1-50),Project Manager,25-34,Very High,Scheduling & Admin Agent,33,18.5,7.0,Intermediate,4,54.61,9,Low,7,High,5.7,Moderate,Highly Positive
+AIW-0214,2024,France,Consulting & Professional Services,Large (251-1000),Sales Representative,35-44,Moderate,Content Generation Agent,19,3.3,1.6,Beginner,8,21.75,7,High,5,Low,6.1,Low,Positive
+AIW-0215,2024,Australia,Technology,Medium (51-250),Legal & Compliance Officer,25-34,Low,Workflow Automation Agent,7,1.7,2.7,Beginner,7,15.31,7,High,4,Low,18.4,Low,Neutral
+AIW-0216,2025,United Kingdom,Consulting & Professional Services,Medium (51-250),Data Analyst,25-34,Low,Data Processing Agent,7,2.7,10.8,Intermediate,6,30.22,6,Moderate,5,Moderate,7.3,Low,Highly Positive
+AIW-0217,2024,South Africa,Government & Public Sector,Medium (51-250),Software Engineer,45-54,Moderate,Coding Agent,4,1.7,-5.5,Beginner,6,56.09,6,Moderate,4,Moderate,7.8,Very High,Negative
+AIW-0218,2026,Pakistan,Technology,Enterprise (1000+),Financial Analyst,45-54,Very High,Data Processing Agent,115,26.0,30.2,Expert,13,130.3,8,High,9,Excellent,,Low,Highly Positive
+AIW-0219,2024,Singapore,Technology,Enterprise (1000+),Data Analyst,35-44,High,Coding Agent,26,5.2,12.6,Advanced,27,116.24,9,High,4,Low,16.1,Low,Highly Positive
+AIW-0220,2025,Pakistan,Logistics & Supply Chain,Large (251-1000),Sales Representative,35-44,Moderate,Multi-Agent System,12,3.4,-11.0,Intermediate,23,81.07,7,High,5,Moderate,8.8,Moderate,Neutral
+AIW-0221,2026,United States,Healthcare,Large (251-1000),HR Specialist,35-44,Very High,Workflow Automation Agent,92,8.8,11.6,Intermediate,15,126.94,7,Low,7,High,10.8,High,Positive
+AIW-0222,2025,Germany,Consulting & Professional Services,Enterprise (1000+),Content Writer / Editor,45-54,Moderate,Multi-Agent System,30,6.0,-0.6,Intermediate,30,111.07,6,High,6,Moderate,8.1,High,Negative
+AIW-0223,2025,United States,Consulting & Professional Services,Medium (51-250),Software Engineer,25-34,Very High,Multi-Agent System,66,11.0,3.9,Advanced,55,187.4,7,Low,5,Moderate,9.4,Low,Positive
+AIW-0224,2026,Australia,Healthcare,Enterprise (1000+),Project Manager,35-44,Moderate,Multi-Agent System,19,4.7,19.9,Intermediate,14,116.08,8,Moderate,7,High,5.7,Moderate,Highly Positive
+AIW-0225,2026,Singapore,Finance & Banking,Enterprise (1000+),Customer Support Agent,25-34,High,Customer Service Agent,49,2.8,24.7,Expert,71,197.38,6,Moderate,6,Excellent,5.2,Moderate,Highly Positive
+AIW-0226,2026,Brazil,Manufacturing,Medium (51-250),Financial Analyst,45-54,Moderate,Multi-Agent System,33,11.3,1.7,Beginner,11,100.8,8,Low,4,Moderate,7.2,Very High,Neutral
+AIW-0227,2026,Netherlands,Retail & E-commerce,Enterprise (1000+),Data Analyst,35-44,Moderate,Multi-Agent System,37,6.2,19.4,Advanced,15,143.08,5,Moderate,5,Moderate,8.6,Moderate,Highly Positive
+AIW-0228,2025,United Arab Emirates,Consulting & Professional Services,Small (1-50),Data Analyst,35-44,Moderate,Workflow Automation Agent,15,2.4,13.5,Intermediate,8,72.93,6,Very High,4,Moderate,10.9,High,Neutral
+AIW-0229,2024,India,Government & Public Sector,Large (251-1000),Financial Analyst,25-34,Low,Research & Analysis Agent ,7,2.7,-7.0,Intermediate,30,22.65,4,Moderate,5,Moderate,4.7,Low,Negative
+AIW-0230,2026,Australia,Government & Public Sector,Large (251-1000),Customer Support Agent,25-34,High,Customer Service Agent,27,1.8,11.5,Advanced,34,38.01,6,Moderate,6,High,5.2,Low,Highly Positive
+AIW-0231,2026,United States,Education,Small (1-50),Legal & Compliance Officer,45-54,High,Multi-Agent System,40,6.0,-3.7,Intermediate,23,67.11,7,High,4,Moderate,22.8,High,Negative
+AIW-0232,2026,United Arab Emirates,Telecommunications,Large (251-1000),Data Analyst,25-34,High,Research & Analysis Agent,20,2.2,5.9,Advanced,50,62.65,8,Very High,5,High,7.4,Moderate,Neutral
+AIW-0233,2025,Australia,Energy & Utilities,Medium (51-250),Software Engineer,35-44,HIGH,Coding Agent,29,5.5,-11.0,Intermediate,3,63.23,5,Moderate,6,Moderate,10.0,Moderate,Neutral
+AIW-0234,2026,India,Technology,Small (1-50),Data Analyst,45-54,High,Coding Agent,38,7.4,1.2,Intermediate,27,209.67,7,Moderate,5,Moderate,8.3,Moderate,Neutral
+AIW-0235,2026,Japan,Finance & Banking,Medium (51-250),Administrative Assistant,35-44,Very High,Scheduling & Admin Agent,89,5.2,10.8,Intermediate,2,60.53,5,Very High,6,High,3.0,Very High,Neutral
+AIW-0236,2025,France,Logistics & Supply Chain,Medium (51-250),Content Writer / Editor,25-34,High,Content Generation Agent,28,8.9,21.2,Advanced,18,56.63,5,High,11,High,8.6,High,Positive
+AIW-0237,2026,United Kingdom,Healthcare,Large (251-1000),Data Analyst,45-54,Very High,Data Processing Agent,144,23.7,26.6,Expert,60,51.84,8,High,8,Excellent,3.1,Low,Highly Positive
+AIW-0238,2024,Singapore,Technology,Enterprise (1000+),Financial Analyst,35-44,High,Data Processing Agent,16,2.8,14.0,Intermediate,10,83.6,8,Moderate,5,Moderate,5.0,Low,Highly Positive
+AIW-0239,2026,United Kingdom,Retail & E-commerce,Medium (51-250),Content Writer / Editor,35-44,Moderate,Content Generation Agent,14,2.6,-1.0,Beginner,1,27.26,6,Very High,6,Moderate,16.5,High,Neutral
+AIW-0240,2025,Canada,Technology,Small (1-50),Software Engineer,45-54,Low,Coding Agent,3,2.2,-7.3,Intermediate,25,19.09,4,Very High,6,Moderate,9.8,Moderate,Negative
+AIW-0241,2025,Pakistan,Retail & E-commerce,Enterprise (1000+),HR Specialist,25-34,Moderate, Scheduling & Admin Agent,24,12.8,6.1,Adv.,23,25.04,7,Low,7,High,7.4,Moderate,Positive
+AIW-0242,2024,United Arab Emirates,Energy & Utilities,Enterprise (1000+),Administrative Assistant,35-44,Low,Scheduling & Admin Agent,17,2.6,14.9,Intermediate,30,17.05,7,Moderate,5,Moderate,9.9,Low,Highly Positive
+AIW-0243,2026,India,Telecommunications,Small (1-50),HR Specialist,45-54,Very High,Workflow Automation Agent,87,26.0,37.0,Intermediate,5,64.25,10,Low,7,Excellent,10.2,High,Highly Positive
+AIW-0244,2025,Brazil,Logistics & Supply Chain,Small (1-50),Marketing Specialist,55+,Moderate,Multi-Agent System,15,1.8,4.7,,0,61.55,5,Moderate,5,Low,8.3,Very High,Neutral
+AIW-0245,2024,United States,Technology,Medium (51-250),Customer Support Agent,45-54,Moderate,Customer Service Agent,30,4.1,5.1,Intermediate,25,65.35,5,Moderate,4,Low,11.9,Low,Neutral
+AIW-0246,2026,Singapore ,Healthcare,Medium (51-250),Software Engineer,35-44,Very High,Workflow Automation Agent,67,20.2,26.3,Expert,30,115.47,8,Low,9,Excellent,4.2,Moderate,Highly Positive
+AIW-0247,2025,Japan,Retail & E-commerce,Small (1-50),HR Specialist,35-44,Low,Content Generation Agent,3,0.2,-15.5,Beginner,7,11.3,4,High,1,Low,17.1,Moderate,Negative
+AIW-0248,2025,United Arab Emirates,Healthcare,Medium (51-250),Healthcare Administrator,25-34,Moderate,Scheduling & Admin Agent,21,3.1,1.1,Beginner,19,15.06,6,Low,6,Moderate,9.7,Very High,Positive
+AIW-0249,2024,United Arab Emirates,Finance & Banking,Enterprise (1000+),Data Analyst,35-44,Moderate,Workflow Automation Agent,31,36.5,14.9,Advanced,50,122.59,7,Very High,,Moderate,12.4,Low,Neutral
+AIW-0250,2026,United States,Finance & Banking,Enterprise (1000+),Software Engineer,18-24,Very High,Coding Agent,75,23.9,37.7,Expert,37,55.31,10,moderate,8,Excellent,3.4,Moderate,Highly Positive
+AIW-0251,2025,India,Manufacturing,Small (1-50),Sales Representative,35-44,High,Customer Service Agent,19,1.2,-2.3,Intermediate,0,43.1,8,Moderate,5,Moderate,17.0,Moderate,Positive
+AIW-0252,2025,Pakistan,Healthcare,Medium (51-250),Software Engineer,25-34,No Usage,No Agent,0,0.0,1.3,Beginner,11,0.0,5,High,1,Low,,Low,Neutral
+AIW-0253,2025,Netherlands,Government & Public Sector,Large (251-1000),Content Writer / Editor,25-34,High,Content Generation Agent,40,4.3,11.9,Advanced,0,25.22,6,High,5,High,5.9,High,Neutral
+AIW-0254,2026,United Kingdom,Consulting & Professional Services,Medium (51-250),Software Engineer,25-34,Moderate,Multi-Agent System,31,6.8,5.9,Intermediate,2,126.42,6,Moderate,5,Moderate,10.3,High,Neutral
+AIW-0255,2025,Nigeria,Consulting & Professional Services,Large (251-1000),Financial Analyst,35-44,Moderate,Data Processing Agent,26,5.6,30.8,Intermediate,6,113.35,7,Moderate,5,Moderate,6.2,Low,Positive
+AIW-0256,2024,United Kingdom,Technology,Medium (51-250),Sales Representative,25-34,Moderate,Research & Analysis Agent,6,1.0,-9.8,Beginner,3,16.28,3,Very High,5,Low,16.1,Moderate,Negative
+AIW-0257,2026,Nigeria,Finance & Banking,Large (251-1000),Legal & Compliance Officer,18-24,Moderate,Multi-Agent System,18,4.7,6.2,intermediate,11,98.93,4,High,6,High,8.0,Moderate,Neutral
+AIW-0258,2026,Germany,Manufacturing,Enterprise (1000+),Customer Support Agent,45-54,Moderate,Customer Service Agent,52,6.5,35.5,Advanced,11,64.34,9,High,6,High,4.4,Very High,Positive
+AIW-0259,2025,United States,Manufacturing,Medium (51-250),HR Specialist,55+,Moderate,Scheduling & Admin Agent,10,1.1,-0.7,Beginner,19,20.35,4,Moderate,4,Moderate,10.8,Very High,Negative
+AIW-0260,2024,Brazil,Consulting & Professional Services,Large (251-1000),Operations Manager,25-34,Moderate,Workflow Automation Agent,17,5.2,1.1,Mid,11,71.41,4,High,6,Low,4.6,Moderate,Positive
+AIW-0261,2026,Pakistan,Healthcare,Medium (51-250),HR Specialist,45-54,High,Content Generation Agent,61,16.0,12.7,Intermediate,22,42.81,8,Low,9,High,6.6,High,Highly Positive
+AIW-0262,2025,United States,Retail & E-commerce,Medium (51-250),Legal & Compliance Officer,55+,Low,Data Processing Agent,6,0.6,6.9,Novice,0,20.66,5,Very High,4,Low,8.8,Moderate,Positive
+AIW-0263,2025,Pakistan,Finance & Banking,Medium (51-250),Project Manager,25-34,Moderate,Scheduling & Admin Agent,19,4.6,-4.9,Intermediate,27,25.98,6,High,5,Moderate,13.9,Moderate,Neutral
+AIW-0264,2026,India,Retail & E-commerce,Enterprise (1000+),Marketing Specialist,45-54,High,Content Generation Agent,24,3.1,-4.8,Intermediate,3,77.05,8,Moderate,6,Moderate,5.8,Moderate,Positive
+AIW-0265,2024,United Kingdom,Retail & E-commerce,Small (1-50),Marketing Specialist,25-34,Low,Content Generation Agent,6,0.5,1.1,Beginner,0,17.82,5,Low,4,Moderate,9.6,High,Negative
+AIW-0266,2024,Germany,Finance & Banking,Small (1-50),Legal & Compliance Officer,35-44,No Usage,No Agent,0,0.0,2.2,Beginner,5,0.0,5,High,3,Low,,Very High,Neutral
+AIW-0267,2026,United Arab Emirates,Technology,Large (251-1000),Financial Analyst,25-34,Very High,Research & Analysis Agent,44,10.4,23.7,Expert,44,215.02,7,High,7,High,7.0,Low,Positive
+AIW-0268,2026,United Kingdom,Finance & Banking,Large (251-1000),Software Engineer,18-24,Low,Multi-Agent System,17,4.9,17.5,Advanced,14,67.95,7,Very High,5,Moderate,6.5,Low,Neutral
+AIW-0269,2026,India,Technology,Medium (51-250),Customer Support Agent,35-44,High,Customer Service Agent,53,3.7,4.5,Expert,35,63.44,9,Moderate,6,High,10.7,Moderate,Highly Positive
+AIW-0270,2025,United States,Banking & Finance,Enterprise (1000+),Administrative Assistant,25-34,Moderate,Scheduling & Admin Agent,13,2.8,11.4,Advanced,18,37.16,8,Moderate,5,Moderate,6.0,Low,Highly Positive
+AIW-0271,2025,United Kingdom,Healthcare,Medium (51-250),Financial Analyst,35-44,Low,Multi-Agent System,12,4.1,1.4,Intermediate,22,33.57,6,Moderate,4,Moderate,8.9,Moderate,Positive
+AIW-0272,2026,Brazil,Technology,Enterprise (1000+),Data Analyst,35-44,High,Research & Analysis Agent,26,4.1,-9.9,Beginner,7,56.85,6,Moderate,4,Moderate,13.7,High,Neutral
+AIW-0273,2025,Nigeria,Healthcare,Small,Product Manager,18-24,Low,Research & Analysis Agent,4,0.7,15.7,Intermediate,23,22.78,5,Very High,5,Moderate,5.9,Low,Positive
+AIW-0274,2025,India,Technology,Medium (51-250),Software Engineer,25-34,Moderate,Coding Agent,15,3.1,18.6,Intermediate,20,186.81,7,Moderate,4,Moderate,7.5,Moderate,Positive
+AIW-0275,2026,United Arab Emirates,Government & Public Sector,Small (1-50),Legal & Compliance Officer,25-34,Low,Research & Analysis Agent,5,2.4,-4.3,Intermediate,0,22.55,5,Moderate,5,Moderate,15.1,Moderate,Negative 
+AIW-0276,2026,India,Finance & Banking,Small (1-50),Customer Support Agent,55+,Moderate,Customer Service Agent,34,5.9,-13.2,Intermediate,3,31.25,6,Very High,6,Moderate,10.4,High,Negative
+AIW-0277,2026,UK,Consulting & Professional Services,Medium (51-250),Marketing Specialist,35-44,High,Multi-Agent System,74,18.0,20.8,Advanced,33,189.97,6,Low,5,Moderate,17.6,High,Positive
+AIW-0278,2026,Singapore,Healthcare,Medium (51-250),Healthcare Administrator,18-24,High,Multi-Agent System,16,6.0,14.2,Intermediate,12,105.1,7,Moderate,6,High,11.0,High,Positive
+AIW-0279,2025,Australia,Manufacturing,Small (1-50),Financial Analyst,45-54,Moderate,Data Processing Agent,10,0.8,-19.3,Intermediate,0,42.57,5,Moderate,3,Moderate,11.8,Moderate,Neutral
+AIW-0280,2025,Canada,Energy & Utilities,Medium (51-250),Product Manager,25-34,Low,Multi-Agent System,7,1.4,-1.9,Beginner,8,81.75,9,Moderate,3,Low,8.2,Low,Positive
+AIW-0281,2026,United States,Technology,Large,Operations Manager,35-44,Very High,Multi-Agent System,50,,7.1,Advanced,32,229.27,7,Moderate,7,High,11.3,Very High,Neutral
+AIW-0282,2024,Canada,Technology,Enterprise (1000+),Software Engineer,45-54,High,Coding Agent,13,,15.5,Advanced,22,351.57,6,Moderate,7,High,6.8,Moderate,Positive
+AIW-0283,2025,Netherlands,Consulting & Professional Services,Medium (51-250),Operations Manager,35-44,Moderate,Workflow Automation Agent,19,2.4,9.4,Intermediate,34,31.99,6,Moderate,7,Moderate,11.4,High,Positive
+AIW-0284,2026,Singapore,Manufacturing,Large (251-1000),Data Analyst,45-54,Very High,Research & Analysis Agent,80,26.0,29.0,Expert,111,47.57,9,Low,6,Excellent,5.6,Very High,Highly Positive
+AIW-0285,2025,France,Logistics & Supply Chain,Enterprise (1000+),Software Engineer,35-44,Very High,Data Processing Agent,109,14.7,,Advanced,11,159.75,8,Moderate,8,Excellent,6.4,Moderate,Highly Positive
+AIW-0286,2026,South Africa,Retail & E-commerce,Large (251-1000),Project Manager,35-44,High,Multi-Agent System,18,10.3,,Beginner,0,108.57,8,Low,2,Moderate,9.5,High,Positive
+AIW-0287,2026,Canada,Education,Large (251-1000),Product Manager,35-44,High,Content Generation Agent,40,6.2,28.8,Advanced,53,67.99,7,High,5,High,7.6,Low,Positive
+AIW-0288,2025,United States,Manufacturing,Large (251-1000),HR Specialist,55+,Moderate,Workflow Automation Agent,24,4.1,12.0,Beginner,10,71.62,5,High,4,Low,16.4,Very High,Neutral
+AIW-0289,2026,France,Government & Public Sector,Large (251-1000),Legal & Compliance Officer,45-54,Low,Multi-Agent System,6,1.7,7.5,Beginner,6,18.91,5,Low,4,Moderate,9.1,Moderate,Neutral
+AIW-0290,2024,Mexico,Healthcare,Medium (51-250),Sales Representative,25-34,Low,Research & Analysis Agent,6,1.9,-15.2,Beginner,13,14.15,5,High,4,Low,10.5,Moderate,Negative
+AIW-0291,2024,Germany,Retail & E-commerce,Enterprise (1000+),Product Manager,25-34,Moderate,Data Processing Agent,31,2.5,-8.7,Beginner,4,25.85,,Moderate,3,Low,9.6,Low,Neutral
+AIW-0292,2026,India,Logistics & Supply Chain,Small (1-50),Operations Manager,25-34,High,Data Processing Agent,28,6.7,17.2,Expert,51,,8,High,7,High,3.4,Low,Highly Positive
+AIW-0293,2026,France,Logistics & Supply Chain,Large (251-1000),Financial Analyst,45-54,Very High,Multi-Agent System,89,20.7,36.7,Expert,,139.78,6,Low,5,High,5.8,Very High,Highly Positive
+AIW-0294,2024,France,Consulting & Professional Services,Medium (51-250),Software Engineer,35-44,Low,Coding Agent,3,0.6,15.6,Intermediate,11,24.25,3,Very High,4,Low,9.9,Moderate,Negative
+AIW-0295,2024,South Africa,Telecommunications,Small (1-50),Administrative Assistant,18-24,Low,Workflow Automation Agent,6,0.5,13.3,Beginner,3,28.25,3,High,4,Low,7.2,Moderate,Negative
+AIW-0296,2025,United Kingdom,Consulting & Professional Services,Large (251-1000),Financial Analyst,25-34,Moderate,Research & Analysis Agent,14,,29.1,Advanced,11,32.59,9,High,8,High,11.6,Moderate,Positive
+AIW-0297,2026,Canada,Logistics & Supply Chain,Medium (51-250),Financial Analyst,18-24,Moderate,Research & Analysis Agent,25,5.2,4.2,Advanced,12,37.99,7,High,7,High,,Moderate,Positive
+AIW-0298,2025,United States,Technology,Large (251-1000),Content Writer / Editor,35-44,High,Content Generation Agent,42,9.8,1.8,Advanced,9,57.83,4,Very High,6,High,14.7,Moderate,Positive
+AIW-0299,2026,Brazil,Consulting & Professional Services,Medium (51-250),Content Writer / Editor,35-44,Very High,Content Generation Agent,65,14.1,19.8,Intermediate,18,43.38,7,Moderate,5,Moderate,12.2,Very High,Positive
+AIW-0300,2026,India,Retail & E-commerce,Enterprise (1000+),Product Manager,45-54,High,Multi-Agent System,76,26.0,32.3,Expert,96,216.79,9,Moderate,8,Excellent,7.7,Moderate,Highly Positive
+AIW-0301,2025,Australia,Technology,Small (1-50),Data Analyst,25-34,Moderate,Coding Agent,14,2.2,7.1,Beginner,2,104.29,5,Moderate,5,Moderate,6.2,Low,Positive
+AIW-0302,2026,Japan,Finance & Banking,Small (1-50),Data Analyst,35-44,Very High,Research & Analysis Agent,22,4.4,9.8,Intermediate,0,43.9,8,Very High,6,Excellent,7.6,High,Neutral
+AIW-0303,2026,Canada,Manufacturing,Small (1-50),Financial Analyst,35-44,Very High,Multi-Agent System,64,,30.4,Intermediate,0,157.33,7,Low,6,Moderate,7.4,High,Positive
+AIW-0304,2025,Netherlands,Consulting & Professional Services,Enterprise (1000+),Sales Representative,45-54,Moderate,Customer Service Agent,30,3.4,,Intermediate,14,34.65,8,High,4,Low,7.2,Moderate,Neutral
+AIW-0305,2025,United States,Education,Enterprise (1000+),HR Specialist,25-34,High,Scheduling & Admin Agent,18,4.8,3.7,Intermediate,13,109.31,8,Moderate,6,High,,Moderate,Positive
+AIW-0306,2025,Germany,Technology,Enterprise (1000+),Financial Analyst,45-54,Very High,Data Processing Agent,55,7.3,15.9,Intermediate,0,126.92,9,Moderate,7,Moderate,6.0,Moderate,Positive
+AIW-0307,2024,Mexico,Retail & E-commerce,Large (251-1000),Customer Support Agent,45-54,Moderate,Workflow Automation Agent,16,1.1,-13.5,Intermediate,19,47.18,6,Moderate,3,Low,10.4,Low,Neutral
+AIW-0308,2025,Japan,Government & Public Sector,Mid-size (51-250),Customer Support Agent,45 to 54,No Usage,No Agent,0,0.0,-3.8,Intermediate,5,0.0,7,High,4,Low,,Moderate,Neutral
+AIW-0309,2024,Australia,Logistics & Supply Chain,Medium (51-250),Financial Analyst,55+,Moderate,Research & Analysis Agent,19,7.1,0.1,Beginner,0,38.47,5,Very High,4,Low,16.3,Very High,Negative
+AIW-0310,2024,United States,Logistics & Supply Chain,Small (1-50),Marketing Specialist,45-54,Low,Content Generation Agent,6,1.6,3.9,Beginner,1,15.56,7,High,5,Moderate,5.3,Moderate,Positive
+AIW-0311,2025,Netherlands,Technology,Enterprise (1000+),Software Engineer,25-34,High,Data Processing Agent,68,8.0,19.0,Expert,29,100.0,10,Very High,7,Excellent,5.6,Low,highly positive
+AIW-0312,2026,United States,Telecommunications,Small (1-50),Product Manager,45-54,High,Multi-Agent System,26,6.8,0.8,Beginner,,,4,High,5,Low,15.3,High,Neutral
+AIW-0313,2024,Australia,Healthcare,Medium (51-250),Marketing Specialist,25-34,Low,Content Generation Agent,3,1.8,6.1,Beginner,6,11.53,5,High,4,Low,10.7,Moderate,Neutral
+AIW-0314,2026,Singapore,Healthcare,Small (1-50),Content Writer / Editor,35-44,Very High,Content Generation Agent,26,4.9,9.3,Expert,55,28.06,6,Moderate,7,Excellent,5.3,High,Highly Positive
+AIW-0315,2025,South Africa,Healthcare,Medium (51-250),Product Manager,45-54,Low,Data Processing Agent,14,2.5,7.1,Beginner,10,13.52,5,Very High,4,Low,7.6,Low,Positive
+AIW-0316,2024,Germany,Logistics & Supply Chain,Large (251-1000),Administrative Assistant,35-44,Moderate,Scheduling & Admin Agent,13,1.2,1.1,Intermediate,32,19.52,6,Moderate,6,Low,4.9,Moderate,Positive
+AIW-0317,2024,Canada,Retail & E-commerce,Enterprise (1000+),Marketing Specialist,45–54,Low,Content Generation Agent,14,2.7,-2.7,Beginner,,38.07,6,Low,2,Low,11.8,Moderate,Neutral
+AIW-0318,2024,Japan,Retail & E-commerce,Medium (51-250),Project manager,25-34,Low,Workflow Automation Agent,4,0.9,-10.4,Beginner,9,26.97,4,Very High,3,Moderate,9.1,Moderate,Negative
+AIW-0319,2025,Japan,Consulting & Professional Services,Medium (51-250),Customer Support Agent,18-24,Low,Customer Service Agent,5,1.1,-5.6,Beginner,9,26.26,4,High,4,Moderate,11.2,High,Neutral
+AIW-0320,2025,United States,Retail & E-commerce,Large (251-1000),Project Manager,,Moderate,Scheduling & Admin Agent,31,2.7,-5.6,Beginner,17,,7,High,5,Low,63.2,Low,Neutral
+AIW-0321,2026,United Kingdom,Telecommunications,Small (1-50),Marketing Specialist,45-54,High,Research & Analysis Agent,17,7.8,20.8,Intermediate,243,,7,Low,7,Moderate,7.4,Moderate,Highly Positive
+AIW-0322,2024,Brazil,Logistics & Supply Chain,Large (251-1000),Software Engineer,25-34,High,Coding Agent,20,2.5,-4.9,Intermediate,24,101.6,5,Moderate,6,Moderate,7.4,Low,Positive
+AIW-0323,2026,Japan,Finance & Banking,Medium (51-250),Sales Representative,35-44,High,Workflow Automation Agent,51,18.9,31.8,Advanced,27,70.25,8,Low,3,High,6.9,Moderate,Highly Positive
+AIW-0324,2024,France,Consulting & Professional Services,Enterprise (1000+),Project Manager,25-34,Moderate,Workflow Automation Agent,16,0.9,0.3,Intermediate,2,28.09,6,High,5,Moderate,9.8,Low,Neutral
+AIW-0325,2024,Mexico,Technology,Small (1-50),Administrative Assistant,35-44,Moderate,Scheduling & Admin Agent,10,0.8,-8.8,Beginner,3,19.02,4,Moderate,4,Moderate,6.5,High,Neutral
+AIW-0326,2024,Germany,Logistics & Supply Chain,Small (1-50),Marketing Specialist,18-24,High,Workflow Automation Agent,48,3.7,-1.3,Advanced,1,145.55,8,Moderate,7,Moderate,8.4,Low,Positive
+AIW-0327,2026,United Kingdom,Retail & E-commerce,Enterprise (1000+),Administrative Assistant,35-44,Very High,Scheduling & Admin Agent,51,10.1,13.5,Advanced,11,61.75,10,Low,9,Excellent,5.2,High,Highly Positive
+AIW-0328,2024,United States,Healthcare,Large (251-1000),Project Manager,18-24,No Usage,No Agent,0,0.0,1.4,Beginner,14,0.0,7,High,2,low,,Low,Neutral
+AIW-0329,2026,Japan,Manufacturing,Small (1-50),Data Analyst,55+,Low,Data Processing Agent,15,5.4,17.3,Beginner,0,21.87,5,High,3,Moderate,9.0,High,Neutral
+AIW-0330,2025,Mexico,Healthcare,Small (1-50),Financial Analyst,45-54,Low,Workflow Automation Agent,11,0.7,-0.4,Intermediate,23,17.41,5,Very High,6,High,10.7,Moderate,Neutral
+AIW-0331,2026,United Kingdom,Technology,Enterprise (1000+),HR Specialist,35-44,High,Multi-Agent System,27,3.8,14.2,Advanced,10,276.6,6,Moderate,7,High,8.7,Very High,Positive
+AIW-0332,2024,Canada,Retail & E-commerce,Large (251-1000),Product Manager,,No Usage,No Agent,0,0.0,5.4,Beginner,7,0.0,4,Moderate,3,Low,,Low,Positive
+AIW-0333,2026,United Arab Emirates,Technology,Medium (51-250),Financial Analyst,35-44,Very High,Multi-Agent System,122,26.0,37.2,Advanced,254,184.26,8,Moderate,7,High,6.6,High,Highly Positive
+AIW-0334,2026,Australia,Technology,Large (251-1000),Software Engineer,45-54,High,Data Processing Agent,28,4.7,25.8,Intermediate,12,109.53,7,Moderate,5,High,7.3,High,Positive
+AIW-0335,2026,Australia,Consulting & Professional Services,Large (251-1000),Operations Manager,55+,High,Multi-Agent System,50,5.9,,Advanced,42,55.93,5,Very High,7,Moderate,11.7,Low,Positive
+AIW-0336,2025,United States,Healthcare,Small (1-50),Customer Support Agent,45-54,Low,Customer Service Agent,12,1.8,6.3,Beginner,7,13.64,3,High,5,Low,7.2,High,Negative
+AIW-0337,2025,United States,Manufacturing,Medium (51-250),Customer Support Agent,35-44,High,Customer Service Agent,12,1.4,-13.3,Intermediate,7,83.09,5,Low,6,Moderate,9.2,Very High,Neutral
+AIW-0338,2026,United Arab Emirates,Technology,Enterprise (1000+),Marketing Specialist,55+,High,Multi-Agent System,50,19.3,24.7,Advanced,12,319.81,5,Moderate,7,High,10.7,Very High,Positive
+AIW-0339,2026,India,Healthcare,Medium (51-250),Marketing Specialist,25-34,Very High,Content Generation Agent,67,22.6,44.6,Advanced,34,157.85,8,Moderate,6,Moderate,6.6,High,Highly Positive
+AIW-0340,2025,Netherlands,Consulting & Professional Services,Large (251-1000),Legal & Compliance Officer,35-44,Moderate,Research & Analysis Agent,19,11.8,23.8,Intermediate,0,25.15,8,Moderate,7,High,7.4,High,Highly Positive
+AIW-0341,2024,India,Finance & Banking,Enterprise (1000+),Financial Analyst,35-44,Moderate,Research & Analysis Agent,8,1.0,-0.4,Intermediate,39,88.43,4,High,4,Low,16.3,Moderate,Negative
+AIW-0342,2026,Japan,Consulting & Professional Services,Medium (51-250),Financial Analyst,45-54,Very High,Multi-Agent System,71,14.4,26.5,Advanced,9,186.69,8,Moderate,4,Moderate,7.1,High,Highly Positive
+AIW-0343,2025,Germany,Education,Enterprise (1000+),Sales Representative,45-54,Moderate,Research & Analysis Agent,11,1.9,3.5,Intermediate,40,32.28,5,Very High,5,Medium,6.8,Moderate,Neutral
+AIW-0344,2024,Singapore,Technology,Small (1-50),Data Analyst,35-44,Low,Data Processing Agent,3,1.1,6.8,Intermediate,13,21.54,4,Very High,5,Low,12.1,Moderate,Neutral
+AIW-0345,2026,Mexico,Finance & Banking,Enterprise (1000+),Software Engineer,25-34,High,Multi-Agent System,54,14.0,42.4,Intermediate,0,185.22,7,High,7,Moderate,6.5,Very High,Positive
+AIW-0346,2024,United States,Retail & E-commerce,Medium (51-250),Software Engineer,18-24,Moderate,Coding Agent,5,3.3,7.0,Intermediate,17,63.59,5,Moderate,5,High,5.6,Low,Positive
+AIW-0347,2025,Mexico,Technology,Medium (51-250),Software Engineer,25-34,Very High,Coding Agent,48,20.4,19.0,Intermediate,24,160.65,8,Low,6,Moderate,8.2,Moderate,Highly Positive
+AIW-0348,2025,United States,Technology,Large (251-1000),Financial Analyst,25-34,High,Multi-Agent System,53,26.0,-41.5,Advanced,56,141.11,7,Low,6,High,6.7,Moderate,Highly Positive
+AIW-0349,2026,Nigeria,Government & Public Sector,Enterprise (1000+),Customer Support Agent,25-34,High,customer service agent,81,2.2,9.9,Advanced,0,53.54,8,High,7,Moderate,7.6,Moderate,Positive
+AIW-0350,2025,India,Education,Small (1-50),Marketing Specialist,45-54,High,Research & Analysis Agent,47,11.8,0.9,Intermediate,12,56.78,6,Very High,9,High,8.7,High,Positive
+AIW-0351,2026,Singapore,Technology,Small (1-50),Customer Support Agent,25-34,High,Workflow Automation Agent,56,5.8,26.4,expert,40,54.09,8,High,10,Excellent,6.8,Moderate,Highly Positive
+AIW-0352,2024,Australia,Retail & E-commerce,Small (1-50),Marketing Specialist,35-44,Moderate,Content Generation Agent,26,4.2,-2.3,,2,26.33,6,High,4,Low,8.9,Low,Neutral
+AIW-0353,2025,Japan,Consulting & Professional Services,Small (1-50),HR Specialist,55+,Low,Workflow Automation Agent,6,0.3,-0.4,Beginner,0,13.82,6,Moderate,4,Moderate,5.2,High,Negative
+AIW-0354,2026,Canada,Finance & Banking,Large (251-1000),Software Engineer,18-24,Very High,Coding Agent,63,17.2,22.5,Expert,48,289.24,7,Moderate,8,Excellent,3.9,Moderate,Highly Positive
+AIW-0355,2024,Brazil,Technology,Large (251-1000),Marketing Specialist,,Moderate,Research & Analysis Agent,4,1.1,-5.7,Beginner,6,71.49,7,Moderate,4,Low,9.6,High,Neutral
+AIW-0356,2026,United Kingdom,Technology,Enterprise (1000+),Software Engineer,55+,Very High,Multi-Agent System,106,26.0,28.6,Advanced,22,269.54,9,Low,4,High,4.9,Very High,Highly Positive
+AIW-0357,2024,United States,Telecommunications,Medium (51-250),Software Engineer,35-44,High,Coding Agent,9,6.5,10.4,Intermediate,29,160.73,7,High,5,Moderate,5.9,Moderate,Positive
+AIW-0358,2024,United States,Retail and E-commerce,Small (1-50),Project Manager,35-44,Low,Multi-Agent System,7,0.6,-9.5,Beginner,6,32.7,4,Moderate,3,Low,12.2,Low,Negative
+AIW-0359,2026,United States,Energy & Utilities,Enterprise (1000+),Financial Analyst,25-34,High,Research & Analysis Agent,23,4.5,21.7,Advanced,12,110.09,9,Moderate,7,High,5.1,Low,Highly Positive
+AIW-0360,2026,Canada,Technology,Small (1-50),Administrative Assistant,35-44,High,Workflow Automation Agent,27,3.4,21.2,Advanced,30,48.69,7,High,9,Excellent,2.5,Moderate,Highly Positive
+AIW-0361,2025,Singapore,Finance & Banking,Medium (51-250),Marketing Specialist,45-54,Moderate,Multi-Agent System,21,4.8,-4.7,Intermediate,12,88.21,5,Very High,2,Low,17.2,Moderate,Negative
+AIW-0362,2025,United States,Healthcare,Enterprise (1000+),Operations Manager,25-34,High,Data Processing Agent,47,4.3,-8.7,Advanced,41,155.01,10,Very High,4,Moderate,17.3,Low,Negative
+AIW-0363,2026,United States,Finance & Banking,Enterprise (1000+),Data Analyst,18-24,Very High,Data Processing Agent,55,4.8,23.2,Advanced,19,104.42,8,Moderate,9,Excellent,6.7,Moderate,Positive
+AIW-0364,2025,United States,Consulting & Professional Services,Large (251-1000),Project Manager,18-24,Moderate,Multi-Agent System,29,17.6,20.6,Advanced,24,84.02,6,Moderate,4,High,5.9,Low,Positive
+AIW-0365,2025,Canada,Consulting & Professional Services,Small (1-50),Data Analyst,18-24,High,Research & Analysis Agent,34,7.8,6.6,Intermediate,0,57.89,7,Moderate,5,Moderate,8.4,High,Positive
+AIW-0366,2025,Germany,manufacturing,Small (1-50),Sales,,Moderate,Content Generation Agent,23,3.8,8.5,Intermediate,4,28.85,7,Moderate,4,Moderate,5.6,High,Neutral
+AIW-0367,2026,United States,Energy & Utilities,Medium (51-250),Operations Manager,35-44,Low,Research & Analysis Agent,6,1.9,-0.1,Intermediate,42,25.32,6,Low,7,Moderate,5.9,Low,Positive
+AIW-0368,2024,United States,Government & Public Sector,Enterprise (1000+),Data Analyst,35-44,High,Research & Analysis Agent,13,2.0,-4.5,Intermediate,18,112.25,4,Very High,5,Moderate,14.9,Very High,Negative
+AIW-0369,2025,canada,Healthcare,Small (1-50),Sales Representative,55+,Moderate,Content Generation Agent,16,2.2,0.9,Beginner,5,25.42,5,High,7,Low,12.4,Moderate,Positive
+AIW-0370,2024,India,Healthcare,Medium (51-250),Customer Support Agent,25-34,Low,Customer Service Agent,5,0.5,4.0,Beginner,0,9.3,2,High,4,Moderate,8.2,Moderate,Neutral
+AIW-0371,2026,United States,Retail & E-commerce,Large (251-1000),Data Analyst,55+,Very High,Multi-Agent System,38,5.0,35.1,Expert,58,164.75,10,High,8,Excellent,5.5,Low,Highly Positive
+AIW-0372,2024,United States,Technology,Large (251-1000),Customer Support Agent,18-24,Moderate,Customer Service Agent,15,2.9,5.8,Intermediate,20,32.5,6,Moderate,5,Low,11.5,Moderate,Neutral
+AIW-0373,2025,India,Retail & E-commerce,Large (251-1000),Customer Support Agent,18-24,Moderate,Customer Service Agent,21,2.7,3.5,Beginner,7,31.05,6,High,6,Moderate,7.1,Moderate,Positive
+AIW-0374,2024,Canada,Telecommunications,Enterprise (1000+),Customer Support Agent,35-44,High,Workflow Automation Agent,45,8.8,-16.2,Beginner,11,86.69,5,High,2,Low,12.3,Low,Negative
+AIW-0375,2025,Pakistan,Retail & E-commerce,Large (251-1000),Content Writer / Editor,25-34,Moderate,Content Generation Agent,13,4.7,18.9,Expert,32,30.15,10,High,6,High,8.9,Low,Highly Positive
+AIW-0376,2026,Australia,Consulting & Professional Services,Medium (51-250),Legal & Compliance Officer,25-34,Very High,Content Generation Agent,53,23.2,35.6,Advanced,31,31.42,10,Moderate,8,Excellent,11.3,High,Highly Positive
+AIW-0377,2026,United Kingdom,Telecommunications,Enterprise (1000+),Marketing Specialist,25-34,High,Multi-Agent System,95,23.0,36.5,Advanced,10,480.93,10,Low,6,High,15.1,Very High,Highly Positive
+AIW-0378,2025,Brazil,Technology,Medium (51-250),Customer Support Agent,35-44,Moderate,Customer Service Agent,13,1.7,11.1,Beginner,5,46.54,,High,5,Moderate,6.1,Very High,Negative
+AIW-0379,2024,United Kingdom,Technology,Small (1-50),Customer Support Agent,35-44,High,Customer Service Agent,37,5.5,13.0,Intermediate,3,147.12,3,High,4,Moderate,14.6,Very High,Neutral
+AIW-0380,2026,India,Technology,Large (251-1000),Operations Manager,25-34,Very High,Multi-Agent System,75,12.9,7.2,Intermediate,17,199.73,7,High,8,Excellent,9.9,Moderate,Positive
+AIW-0381,2026,Nigeria,Logistics & Supply Chain,Medium (51-250),Data Analyst,25-34,High,Data Processing Agent,38,6.8,128.3,Advanced,38,66.43,9,Very High,5,High,8.8,Moderate,Positive
+AIW-0382,2025,United States,Finance & Banking,Medium (51-250),Sales Representative,35-44,Moderate,Research & Analysis Agent,27,2.9,3.7,Advanced,20,46.22,8,Moderate,5,Moderate,7.0,Low,Positive
+AIW-0383,2025,Japan,Technology,Enterprise (1000+),Data Analyst,35-44,Moderate,Data Processing Agent,35,7.0,12.3,Beginner,11,25.66,3,Moderate,4,Low,14.9,High,Positive
+AIW-0384,2026,Germany,Government & Public Sector,Large (251-1000),Software Engineer,18-24,Low,Coding Agent,7,2.1,-3.2,Intermediate,20,32.47,5,Moderate,,Moderate,5.4,Very High,Neutral
+AIW-0385,2025,United States,Finance & Banking,Medium (51-250),Healthcare Administrator,25-34,Low,Data Processing Agent,8,0.8,-3.9,Beginner,9,22.74,4,Very High,4,Low,10.9,Low,Neutral
+AIW-0386,2024,United States,Finance & Banking,Large (251-1000),Data Analyst,35-44,Moderate,Coding Agent,23,5.2,5.0,Intermediate,7,78.31,5,High,6,Moderate,4.0,Low,Positive
+AIW-0387,2024,Japan,Finance & Banking,Medium (51-250),Operations Manager,35-44,Low,Data Processing Agent,22,2.6,9.9,Intermediate,6,23.64,4,High,4,Moderate,6.2,Low,Neutral
+AIW-0388,2025,United Kingdom,Technology,Small (1-50),Data Analyst,45-54,High,Multi-Agent System,57,3.6,3.5,Intermediate,16,57.4,5,High,5,Moderate,9.0,Moderate,Neutral
+AIW-0389,2024,United States,Education,Medium (51-250),Administrative Assistant,35-44,Low,Scheduling & Admin Agent,7,1.2,-6.9,Beginner,26,10.61,6,High,5,Low,6.2,Moderate,Positive
+AIW-0390,2026,Australia,Healthcare,Enterprise (1000+),Customer Support Agent,35-44,High,Customer Service Agent,51,3.2,-5.1,intermediate,0,65.02,4,Very High,5,Moderate,10.4,Moderate,Neutral
+AIW-0391,2026,Germany,Technology,Enterprise (1000+),Software Engineer,25-34,Very High,Coding Agent,51,6.5,12.9,Advanced,8,74.5,9,Moderate,9,Excellent,5.9,High,Positive
+AIW-0392,2026,Australia,Technology,Enterprise (1000+),Administrative Assistant,45-54,Very High,Scheduling & Admin Agent,125,12.4,21.1,Advanced,,123.41,6,Very High,7,High,9.7,Very High,Positive
+AIW-0393,2026,Japan,Telecommunications,Large (251-1000),Operations Manager,25-34,High,Data Processing Agent,32,5.7,9.8,Beginner,3,32.7,,High,6,Moderate,8.4,High,Neutral
+AIW-0394,2026,France,Telecom,Medium (51-250),Financial Analyst,25-34,Very High,Data Processing Agent,71,26.0,25.9,Expert,14,126.23,10,Low,6,Excellent,6.2,Moderate,Highly Positive
+AIW-0395,2026,Brazil,Consulting & Professional Services,Medium (51-250),Project Manager,55+,High,Workflow Automation Agent,92,5.9,,Intermediate,8,67.13,7,High,5,High,6.7,High,Neutral
+AIW-0396,2024,Canada,Technology,Medium (51-250),Sales Representative,25-34,Moderate,Multi-Agent System,18,3.9,-7.8,Beginner,17,115.72,3,High,3,Low,11.8,Very High,Negative
+AIW-0397,2025,United States,Energy & Utilities,Medium (51-250),Financial Analyst,25-34,Moderate,Research & Analysis Agent,12,1.5,18.3,Novice,4,15.25,9,Moderate,6,Moderate,9.3,Very High,Highly Positive
+AIW-0398,2026,Germany,Technology,Small (1-50),Sales Representative,45-54,Moderate,Content Generation Agent,,3.5,7.7,Intermediate,18,13.97,7,Moderate,6,Moderate,12.6,High,Neutral
+AIW-0399,2026,India,Telecommunications,Medium (51-250),Operations Manager,25-34,Very High,Workflow Automation Agent,73,11.2,20.6,Expert,35,122.94,8,Moderate,8,Moderate,7.0,Low,Highly Positive
+AIW-0400,2025,Singapore,Logistics & Supply Chain,Medium (51-250),Product Manager,35-44,Moderate,Research & Analysis Agent,10,2.4,0.5,Beginner,5,60.19,4,High,3,Low,16.3,Moderate,Neutral
+AIW-0401,2025,United Arab Emirates,Government & Public Sector,Medium (51-250),Operations Manager,35-44,Low,Research & Analysis Agent,3,0.9,6.4,Beginner,17,25.45,6,Moderate,5,Moderate,16.2,High,Neutral
+AIW-0402,2025,United Arab Emirates,Retail & E-commerce,Medium (51-250),Operations Manager,35-44,Moderate,Scheduling & Admin Agent,16,4.6,14.5,Beginner,3,30.08,8,Moderate,4,Moderate,7.8,Moderate,Highly Positive
+AIW-0403,2025,Singapore,Government & Public Sector,Medium (51-250),Project Manager,18-24,Moderate,Workflow Automation Agent,15,7.2,19.4,Intermediate,18,58.2,7,Moderate,7,High,7.6,Low,Positive
+AIW-0404,2024,United Arab Emirates,Technology,Large (251-1000),Project Manager,25-34,Moderate,Scheduling & Admin Agent,6,0.7,-17.9,Beginner,9,35.04,6,Moderate,6,Moderate,7.7,High,Neutral
+AIW-0405,2024,Canada,Retail & E-commerce,Small (1-50),Administrative Assistant,45-54,No Usage,No Agent,0,0.0,0.4,Beginner,4,0.0,4,Very High,3,Low,,High,Negative
+AIW-0406,2026,United Kingdom,Government & Public Sector,Small (1-50),Sales Representative,45-54,High,Workflow Automation Agent,58,7.1,-6.5,Advanced,0,79.08,7,Moderate,6,High,9.0,Low,Positive
+AIW-0407,2025,Singapore,Energy & Utilities,Enterprise (1000+),Financial Analyst,25-34,Moderate,Multi-Agent System,19,2.3,3.4,Intermediate,29,115.27,9,Moderate,7,High,8.3,Low,Positive
+AIW-0408,2024,Australia,Finance & Banking,Enterprise (1000+),Sales Representative,35-44,Low,Research & Analysis Agent,6,0.7,-3.3,Beginner,14,14.27,4,Very High,5,Low,11.9,High,Negative
+AIW-0409,2025,South Africa,Retail & E-commerce,Medium (51-250),Project Manager,18-24,Moderate,Scheduling & Admin Agent,25,2.8,1.0,Intermediate,9,29.79,6,Moderate,6,Moderate,15.1,Low,Neutral
+AIW-0410,2026,Germany,Finance & Banking,Enterprise (1000+),Customer Support Agent,25-34,Very High,Multi-Agent System,105,15.4,29.8,Advanced,27,296.23,7,Very High,5,Excellent,15.1,Very High,Positive
+AIW-0411,2024,Japan,Technology,Enterprise (1000+),Data Analyst,35-44,Very High,Data Processing Agent,131,24.7,29.2,Advanced,14,63.4,8,Low,8,High,4.0,Moderate,Highly Positive
+AIW-0412,2026,Mexico,Finance & Banking,Medium (51-250),Sales Representative,35-44,High,Workflow Automation Agent,15,3.3,3.1,Intermediate,0,43.23,4,Very High,5,High,10.4,High,Negative
+AIW-0413,2026,Pakistan,Retail & E-commerce,Enterprise (1000+),Administrative Assistant,25-34,Moderate,Scheduling & Admin Agent,45,3.0,15.3,Advanced,32,50.39,9,High,8,High,5.1,Moderate,Positive
+AIW-0414,2026,Germany,Education,Medium (51-250),Teacher / Trainer,45-54,Low,Content Generation Agent,4,2.0,0.1,Advanced,18,,5,High,6,High,10.4,Low,Neutral
+AIW-0415,2026,India,Retail & E-commerce,Enterprise (1000+),Teacher / Trainer,25-34,High,Content Generation Agent,8,1.1,6.3,Beginner,17,73.0,8,High,6,Moderate,6.6,Moderate,Positive
+AIW-0416,2025,India,Telecommunications,Medium (51-250),Administrative Assistant,35-44,Very High,Scheduling & Admin Agent,67,10.7,25.1,Intermediate,7,78.0,9,Low,7,Moderate,5.3,High,Highly Positive
+AIW-0417,2025,France,Manufacturing,Small (1-50),Operations Manager,35-44,High,Data Processing Agent,41,33.1,-3.2,Intermediate,11,95.42,4,High,5,Moderate,8.6,Moderate,Neutral
+AIW-0418,2025,Japan,Healthcare,Medium (51-250),Financial Analyst,35-44,Very High,Research & Analysis Agent,101,4.9,22.6,Intermediate,8,41.87,7,Moderate,7,Excellent,6.3,High,Positive
+AIW-0419,2024,United States,Education,Enterprise (1000+),Data Analyst,35-44,High,Multi-Agent System,64,10.2,2.7,Advanced,20,441.52,7,Moderate,6,Moderate,6.4,Low,Positive
+AIW-0420,2026,Germany,Consulting & Professional Services,Small (1-50),Project Manager,25-34,Moderate,Research & Analysis Agent,14,4.1,0.9,Intermediate,13,61.23,6,High,5,Moderate,14.8,Low,Neutral
+AIW-0421,2026,United States,Manufacturing,Enterprise (1000+),Customer Support Agent,18-24,High,Customer Service Agent,77,21.4,24.0,Expert,34,88.6,10,High,7,Excellent,9.2,Low,Highly Positive
+AIW-0422,2026,Singapore,Education,Enterprise (1000+),Sales Representative,18-24,High,Content Generation Agent,35,3.7,4.2,Intermediate,35,31.37,6,Moderate,,Moderate,6.9,Moderate,Neutral
+AIW-0423,2026,India,Finance & Banking,Medium (51-250),HR Specialist,45-54,High,Workflow Automation Agent,107,24.0,33.2,Intermediate,7,77.61,5,Moderate,5,Moderate,7.4,Moderate,Positive
+AIW-0424,2025,South Africa,Retail & E-commerce,Enterprise (1000+),HR Specialist,35-44,Low,Content Generation Agent,9,1.7,5.8,Intermediate,0,9.62,5,Low,5,Moderate,6.2,High,Neutral
+AIW-0425,2026,France,Professional Services,Medium (51-250),Project Manager,45-54,Low,Content Generation Agent,8,2.3,23.1,Advanced,35,17.63,7,High,7,High,5.3,Very High,Positive
+AIW-0426,2026,Brazil,Technology,Small (1-50),Marketing Specialist,25-34,High,Multi-Agent System,62,6.0,-8.1,Intermediate,0,143.36,3,High,7,Moderate,8.6,Very High,Negative
+AIW-0427,2024,India,Education,Large (251-1000),Data Analyst,35-44,Low,Research & Analysis Agent,3,1.5,-2.3,Beginner,0,26.47,5,High,5,Low,17.4,Very High,Negative
+AIW-0428,2025,United States,Government & Public Sector,Medium (51-250),Software Engineer,45-54,Moderate,Coding Agent,8,3.0,11.5,Intermediate,4,45.36,7,Moderate,6,Moderate,9.5,Low,Positive
+AIW-0429,2026,Germany,Healthcare,Small (1-50),HR Specialist,25-34,Moderate,Scheduling & Admin Agent,17,2.9,7.3,Intermediate,8,11.78,6,Very High,4,High,6.4,Very High,Neutral
+AIW-0430,2024,Pakistan,Education,Small (1-50),Teacher / Trainer,25-34,Low,Content Generation Agent,5,1.5,,Beginner,1,11.14,6,MODERATE,4,Low,17.5,Low,Negative
+AIW-0431,2025,South Africa,Consulting & Professional Services,Medium (51-250),Software Engineer,25-34,Moderate,Multi-Agent System,18,5.9,9.3,Intermediate,31,63.11,5,High,5,Moderate,13.6,Moderate,Positive
+AIW-0432,2025,Nigeria,Technology,Enterprise (1000+),Sales Representative,45-54,Moderate,Multi-Agent System,26,8.0,27.4,Expert,14,112.12,7,Low,6,High,11.0,Low,Positive
+AIW-0433,2025,United States,Manufacturing,Enterprise,Marketing Specialist,35-44,High,Content Generation Agent,26,4.6,7.4,Intermediate,10,131.94,7,Moderate,6,High,9.5,Moderate,Neutral
+AIW-0434,2026,Brazil,Energy & Utilities,Large (251-1000),Data Analyst,35-44,Very High,Workflow Automation Agent,64,12.3,23.9,Expert,38,113.8,9,Very High,8,High,7.9,Moderate,Positive
+AIW-0435,2025,United States,Healthcare,Enterprise (1000+),Software Engineer,25-34,High,Coding Agent,35,9.7,12.3,Advanced,14,321.15,6,High,7,High,7.3,Low,Positive
+AIW-0436,2024,Singapore,Energy & Utilities,Large (251-1000),Software Engineer,18-24,Moderate,Coding Agent,10,0.5,1.7,Intermediate,11,55.23,7,Moderate,6,Moderate,9.9,Moderate,Neutral
+AIW-0437,2026,India,Manufacturing,Enterprise (1000+),Product Manager,25-34,High,Multi-Agent System,89,18.2,34.7,Expert,58,234.82,10,Low,7,Excellent,6.0,Low,Highly Positive
+AIW-0438,2024,Australia,Healthcare,Small (1-50),Healthcare Administrator,25-34,High,Data Processing Agent,38,12.9,21.2,Intermediate,7,,6,Moderate,6,Moderate,6.7,Moderate,Highly Positive
+AIW-0439,2026,India,Technology,Large (251-1000),Software Engineer,35-44,Very High,Coding Agent,17,5.2,3.3,Advanced,20,108.36,6,Very High,9,Excellent,4.0,High,Positive
+AIW-0440,2024,Singapore,Healthcare,Medium (51-250),Sales Representative,55+,Low,Multi-Agent System,5,3.0,9.2,Beginner,5,76.06,7,Low,5,Moderate,7.3,Moderate,Positive
+AIW-0441,2025,Brazil,Telecommunications,Small (1-50),Operations Manager,25-34,Moderate,Workflow Automation Agent,39,6.9,12.4,Intermediate,4,52.55,5,Very High,7,Moderate,5.2,High,Neutral
+AIW-0442,2025,South Africa,Energy & Utilities,Medium (51-250),Customer Support Agent,25-34,Moderate,Customer Service Agent,18,2.5,1.5,advanced,17,45.3,6,Low,6,High,7.9,Very High,Positive
+AIW-0443,2025,India,Healthcare,Large (251-1000),Product Manager,35-44,Low,Workflow Automation Agent,12,1.3,-6.5,Beginner,8,19.49,7,Very High,5,Low,10.0,Low,Positive
+AIW-0444,2026,Brazil,Healthcare,Enterprise (1000+),Data Analyst,45-54,High,Data Processing Agent,110,9.9,16.9,Advanced,15,139.74,9,Moderate,6,High,5.9,Moderate,Positive
+AIW-0445,2026,France,Retail & E-commerce,Small (1-50),Customer Support Agent,35-44,High,Customer Service Agent,45,5.3,18.5,Intermediate,18,107.59,8,Moderate,6,High,5.2,Moderate,Highly Positive
+AIW-0446,2026,Brazil,Logistics & Supply Chain,Medium (51-250),Financial Analyst,25-34,Moderate,Data Processing Agent,19,5.0,4.8,Intermediate,23,38.51,5,Moderate,4,High,4.1,High,Neutral
+AIW-0447,2024,Netherlands,Healthcare,Medium (51-250),Data Analyst,35-44,Moderate,Coding Agent,14,2.8,-15.8,Beginner,3,40.68,2,High,5,Moderate,13.1,High,Negative
+AIW-0448,2026,Pakistan,Finance & Banking,Large (251-1000),Data Analyst,25-34,Very High,Multi-Agent System,120,26.0,31.8,Advanced,41,216.04,9,Low,7,Excellent,12.7,Low,Highly Positive
+AIW-0449,2026,Mexico,Manufacturing,Medium (51-250),Project Manager,45-54,Very High,Multi-Agent System,108,23.9,23.8,Advanced,32,184.4,8,Low,8,Excellent,4.4,High,Highly Positive
+AIW-0450,2026,Germany,Education,Small (1-50),Teacher / Trainer,35-44,Low,Content Generation Agent,4,0.9,19.1,Beginner,15,14.45,7,High,6,Moderate,10.2,High,Neutral
+AIW-0451,2026,Mexico,Consulting & Professional Services,Small (1-50),Operations Manager,35-44,Moderate,Workflow Automation Agent,46,16.5,18.9,advanced,39,49.04,,Moderate,7,High,4.5,Moderate,Positive
+AIW-0452,2024,Netherlands,Telecommunications,Large (251-1000),Financial Analyst,55+,Low,Workflow Automation Agent,8,0.7,15.9,Intermediate,1,39.97,7,High,7,Moderate,4.3,Moderate,Positive
+AIW-0453,2026,United Arab Emirates,Technology,Enterprise (1000+),Customer Support Agent,25-34,High,Multi-Agent System,72,7.7,25.9,Intermediate,56,406.99,6,High,5,Moderate,7.4,Very High,Positive
+AIW-0454,2025,United Kingdom,Technology,Medium (51-250),Project Manager,45-54,Moderate,Scheduling & Admin Agent,234,1.1,-2.7,Beginner,0,14.74,6,Moderate,6,Low,3.8,High,Positive
+AIW-0455,2026,United Kingdom,Healthcare,Medium (51-250),Data Analyst,25-34,Moderate,Research & Analysis Agent,16,2.4,-0.4,Advanced,14,53.02,6,Moderate,4,Moderate,7.0,Moderate,Neutral
+AIW-0456,2025,Germany,Retail,Mid-size (51-250),Operations Manager,45-54,Moderate,Data Processing Agent,11,1.5,-3.4,Beginner,35,89.69,7,Low,4,Moderate,5.9,Moderate,Neutral
+AIW-0457,2026,Pakistan,Manufacturing,Medium (51-250),Legal & Compliance Officer,55+,High,Data Processing Agent,32,14.4,18.8,Intermediate,9,164.24,6,Moderate,6,high,6.3,Moderate,Highly Positive
+AIW-0458,2026,India,Technology,small (1-50),Financial Analyst,18-24,Moderate,Multi-Agent System,35,9.8,18.5,Intermediate,18,83.68,4,Moderate,5,Moderate,10.9,Very High,Positive
+AIW-0459,2025,India,Telecommunications,Small (1-50),Customer Support Agent,45-54,Moderate,Customer Service Agent,27,2.7,2.5,Beginner,0,51.12,3,Moderate,4,Moderate,9.9,Very High,Negative
+AIW-0460,2024,Mexico,Technology,Small (1-50),Customer Support Agent,25-34,Moderate,Customer Service Agent,20,3.3,9.9,Intermediate,7,38.63,7,High,5,Moderate,17.8,Moderate,Neutral
+AIW-0461,2026,India,Healthcare,Large (251-1000),Healthcare Administrator,25-34,Low,Scheduling & Admin Agent,8,1.1,3.5,Beginner,,5.06,5,Very High,6,Low,5.8,Low,Positive
+AIW-0462,2026,Nigeria,Technology,Medium (51-250),Software Engineer,55+,Moderate,Coding Agent,14,2.8,16.8,Intermediate,19,56.08,4,Very High,4,Moderate,6.2,High,Negative
+AIW-0463,2025,Japan,Technology,Small (1-50),Administrative Assistant,18-24,High,Workflow Automation Agent,27,6.9,10.9,Intermediate,1,55.44,4,High,7,High,7.9,Very High,Neutral
+AIW-0464,2026,United States,Manufacturing,Medium (51-250),Data Analyst,45-54,Moderate,Data Processing Agent,19,1.9,-4.0,Beginner,16,20.18,3,Moderate,4,Low,8.2,High,Neutral
+AIW-0465,2026,Mexico,Education,Medium (51-250),Teacher / Trainer,55+,Moderate,Content Generation Agent,15,1.3,17.0,Intermediate,9,32.0,8,Very High,4,Moderate,8.4,Low,Neutral
+AIW-0466,2026,United States,Healthcare,Enterprise (1000+),Financial Analyst,25-34,Moderate,Data Processing Agent,17,4.0,14.6,Intermediate,7,43.37,7,Very High,6,Moderate,4.6,Very High,Positive
+AIW-0467,2026,Brazil,Finance & Banking,Small (1-50),Project Manager,25-34,Low,Workflow Automation Agent,8,0.6,4.9,Intermediate,6,28.01,8,Low,5,Moderate,6.8,Moderate,Positive
+AIW-0468,2026,Japan,Consulting & Professional Services,Small (1-50),HR Specialist,45-54,LOW,Scheduling & Admin Agent,10,0.6,13.6,Beginner,22,11.45,7,Moderate,5,Low,5.2,Moderate,Positive
+AIW-0469,2026,United Kingdom,Technology,Large (251-1000),Financial Analyst,25-34,Very High,Multi-Agent System,150,26.0,39.2,Advanced,41,294.33,9,High,6,Excellent,5.6,High ,Highly Positive
+AIW-0470,2026,Singapore,Retail & E-commerce,Large (251-1000),Marketing Specialist,45-54,High,Multi-Agent System,102,19.8,48.3,Advanced,39,170.56,8,High,7,High,14.9,Moderate,Highly Positive
+AIW-0471,2026,Nigeria,Education,Large (251-1000),Operations Manager,25-34,Moderate,Data Processing Agent,18,9.7,22.9,Advanced,37,42.68,10,Low,9,Excellent,6.5,Moderate,Highly Positive
+AIW-0472,2026,Mexico,Retail & E-commerce,Large (251-1000),Project Manager,45-54,High,Multi-Agent System,37,17.9,3.8,Advanced,3,93.64,7,High,6,Excellent,9.9,Moderate,Positive
+AIW-0473,2025,Nigeria,Healthcare,Enterprise (1000+),Data Analyst,25-34,High,Workflow Automation Agent,23,5.6,16.2,Beginner,11,62.19,6,High,5,Moderate,9.6,High,Neutral
+AIW-0474,2026,Germany,Finance & Banking,Medium (51-250),Customer Support Agent,35-44,Moderate,Customer Service Agent,43,6.4,24.8,Advanced,17,49.97,7,High,8,High,8.0,Moderate,Positive
+AIW-0475,2025,Australia,Technology,Mid-size (51-250),HR Specialist,45-54,Moderate,Content Generation Agent,8,1.3,-3.5,Beginner,0,22.17,8,High,4,Low,16.3,Moderate,Neutral
+AIW-0476,2026,Canada,Logistics & Supply Chain,Medium (51-250),Content Writer / Editor,55+,Low,Multi-Agent System,6,1.7,-6.3,Beginner,11,37.13,5,Moderate,4,Low,15.1,High,Negative
+AIW-0477,2024,Australia,Education,Large (251-1000),Customer Support Agent,45-54,Low,Customer Service Agent,13,1.7,-3.9,Beginner,13,33.36,2,High,3,Low,15.5,High,Negative
+AIW-0478,2026,France,Finance & Banking,Small (1-50),HR Specialist,25-34,Moderate,Workflow Automation Agent,16,1.6,-4.1,Intermediate,12,38.84,9,Low,6,Moderate,8.4,Moderate,Positive
+AIW-0479,2025,India,Retail & E-commerce,Medium (51-250),Sales Representative,18-24,Low,Content Generation Agent,7,1.8,-5.2,Intermediate,11,9.38,5,High,4,Moderate,11.8,Moderate,Neutral
+AIW-0480,2025,Pakistan,Telecommunications,Enterprise (1000+),Software Engineer,55+,moderate,Coding Agent,11,1.8,16.2,Intermediate,21,62.86,6,Moderate,5,Low,8.5,Moderate,Positive
+AIW-0481,2025,France,Logistics & Supply Chain,Medium (51-250),Sales Representative,35-44,Low,Content Generation Agent,3,0.5,7.9,Beginner,3,10.91,5,High,2,Low,13.6,High,Neutral
+AIW-0482,2026,France ,Technology,Large (251-1000),Administrative Assistant,35-44,High,Content Generation Agent,37,9.4,23.4,Intermediate,13,96.1,6,Moderate,7,High,6.4,Very High,Positive
+AIW-0483,2024,United Arab Emirates,Healthcare,Enterprise (1000+),Healthcare Administrator,45-54,No Usage,No Agent,0,0.0,5.2,Beginner,2,0.0,4,High,3,Low,,Low,Negative
+AIW-0484,2025,United Kingdom,Retail & E-commerce,Enterprise (1000+),Project Manager,35-44,Moderate,Scheduling & Admin Agent,22,3.6,8.3,Intermediate,13,15.77,8,Moderate,6,Moderate,7.6,Low,Positive
+AIW-0485,2025,United Kingdom,Technology,Medium (51-250),Software Engineer,35-44,Very High,Coding Agent,26,10.7,14.8,Intermediate,7,110.63,7,Moderate,5,Moderate,14.5,High,Positive
+AIW-0486,2026,India,Education,Small (1-50),Customer Support Agent,25-34,Moderate,Customer Service Agent,30,3.0,-11.1,Advanced,,41.21,8,HIGH,5,High,4.9,Moderate,Positive
+AIW-0487,2025,India,Retail & E-commerce,Medium (51-250),Financial Analyst,35-44,High,Research & Analysis Agent,24,6.5,10.6,Advanced,25,55.09,8,High,7,High,10.6,Moderate,Positive
+AIW-0488,2025,India,Consulting & Professional Services,Enterprise (1000+),Financial Analyst,25-34,High,Multi-Agent System,42,9.0,6.6,Advanced,17,2710.65,9,High,5,High,9.8,Moderate,Positive
+AIW-0489,2026,Germany,Energy & Utilities,Medium (51-250),Operations Manager,18-24,Moderate,Scheduling & Admin Agent,30,3.1,14.4,Intermediate,31,21.48,7,Moderate,9,High,5.8,Low,Positive
+AIW-0490,2024,Canada,Finance & Banking,Medium (51-250),Operations Manager,35-44,Low,Workflow Automation Agent,7,0.6,-10.2,Intermediate,5,20.32,9,High,7,Low,10.6,Low,Neutral
+AIW-0491,2025,Netherlands,Finance & Banking,Large (251-1000),Customer Support Agent,,Moderate,Customer Service Agent,20,1.7,5.9,Intermediate,11,22.8,6,Moderate,2,Low,18.2,Moderate,Neutral
+AIW-0492,2024,United States,Technology,Medium (51-250),Software Engineer,25-34,Moderate,Multi-Agent System,37,9.6,6.5,Beginner,10,166.37,7,Very High,7,Moderate,9.8,High,Positive
+AIW-0493,2024,United Kingdom,Retail & E-commerce,Large (251-1000),Project Manager,25-34,Moderate,Scheduling & Admin Agent,18,2.5,9.7,Beginner,1,19.69,9,Moderate,5,Moderate,6.7,Low,Positive
+AIW-0494,2024,Germany,Education,Small (1-50),Sales Representative,25-34,Low,Workflow Automation Agent,4,29.5,-17.2,Intermediate,12,26.84,6,Moderate,4,LOW,16.8,Low,Neutral
+AIW-0495,2026,Brazil,Education,Large (251-1000),Operations Manager,45-54,Moderate,Scheduling & Admin Agent,19,7.8,23.8,Intermediate,17,47.3,6,High,5,High,4.9,High,Positive
+AIW-0496,2025,India,Technology,Large (251-1000),Software Engineer,35-44,High,Research & Analysis Agent,19,7.2,14.5,Expert,45,71.22,7,Moderate,8,High,10.0,Low,Positive
+AIW-0497,2024,Japan,Education,Small (1-50),Finance Analyst,25-34,Moderate,Research & Analysis Agent,12,1.8,-2.3,Intermediate,4,25.68,6,High,3,Moderate,8.0,Moderate,Negative
+AIW-0498,2024,United States,Retail & E-commerce,Large (251-1000),Customer Support Agent,25-34,Low,Customer Service Agent,6,1.3,-0.8,Intermediate,4,17.38,6,Very High,5,High,4.7,Low,Positive
+AIW-0499,2026,France,Healthcare,Enterprise (1000+),Healthcare Administrator,25-34,High,Multi-Agent System,28,9.6,36.6,Advanced,8,100.58,7,Very High,7,Excellent,6.7,Moderate,Positive
+AIW-0500,2025,Japan,Manufacturing,Small (1-50),Marketing Specialist,45-54,Low,Content Generation Agent,9,2.6,1.3,Intermediate,0,12.01,6,Low,5,Moderate,9.5,Moderate,Positive
+AIW-0501,2025,United States,Education,Small (1-50),Data Analyst,25-34,High,Research & Analysis Agent,44,15.8,8.0,Intermediate,20,69.61,7,Moderate,6,High,6.9,Moderate,Positive
+AIW-0502,2025,Brazil,Technology,Medium,Marketing Specialist,35-44,Moderate,Research & Analysis Agent,12,3.6,2.7,Intermediate,5,56.8,5,High,5,High,11.0,Low,Neutral
+AIW-0503,2025,Canada,Finance & Banking,Enterprise (1000+),Financial Analyst,18-24,High,Multi-Agent System,71,10.6,32.0,Advanced,37,193.56,10,Very High,5,High,8.5,Low,Highly Positive
+AIW-0504,2026,Canada,Finance & Banking,Medium (51-250),Product Manager,25-34,High,Research & Analysis Agent,43,15.0,36.5,Intermediate,15,135.25,9,Very High,6,Moderate,13.1,Low,Positive
+AIW-0505,2025,Singapore,Telecommunications,Enterprise (1000+),Content Writer / Editor,25-34,High,Content Generation Agent,80,4.5,17.4,Advanced,0,121.72,6,Moderate,5,Moderate,4.5,Moderate,Positive
+AIW-0506,2026,Netherlands,Energy & Utilities,Large (251-1000),Data Analyst,35-44,Moderate,Data Processing Agent,26,4.3,15.4,Intermediate,17,51.58,6,Moderate,6,High,5.8,Moderate,Positive
+AIW-0507,2024,United States,Retail & E-commerce,Medium (51-250),Operations Manager,35-44,Moderate,Workflow Automation Agent,12,9.3,-32.4,Beginner,27,28.43,7,High,4,Moderate,8.0,Moderate,Positive
+AIW-0508,2026,United Kingdom,Retail & E-commerce,Large (251-1000),Marketing Specialist,55+,High,Data Processing Agent,24,4.6,18.8,Advanced,39,57.72,9,Moderate,7,Excellent,5.7,Low,Highly Positive
+AIW-0509,2026,France,Retail & E-commerce,Large (251-1000),Customer Support Agent,35-44,High,Multi-Agent System,,5.3,12.6,Intermediate,0,257.1,7,Low,7,HIGH,7.0,Very High,Positive
+AIW-0510,2024,United States,Healthcare,Small (1-50),Product Manager,45-54,High,Content Generation Agent,15,7.1,7.6,Beginner,0,133.54,4,High,2,Low,17.5,Low,Negative
+AIW-0511,2024,Germany,Consulting & Professional Services,Enterprise (1000+),HR Specialist,25-34,Low,Content Generation Agent,8,2.3,-3.3,Beginner,30,13.3,7,Moderate,4,Low,12.0,Moderate,Neutral
+AIW-0512,2025,U.K.,Telecommunications,Enterprise (1000+),Marketing Specialist,45-54,Moderate,Content Generation Agent,11,3.0,-2.1,Intermediate,10,72.06,5,Very High,5,Moderate,67.2,Very High,Neutral
+AIW-0513,2025,India,Manufacturing,Small (1-50),Content Writer / Editor,35-44,High,Content Generation Agent,22,5.4,7.0,Intermediate,0,54.35,7,Moderate,4,Moderate,13.3,High,Positive
+AIW-0514,2024,United States,Technology,Enterprise (1000+),Sales Representative,45-54,Moderate,Content Generation Agent,10,1.7,-13.1,Intermediate,17,28.4,4,Moderate,4,Moderate,13.2,Low,Neutral
+AIW-0515,2024,United States,Logistics & Supply Chain,Enterprise (1000+),Financial Analyst,55+,High,Research & Analysis Agent,18,4.0,12.4,Intermediate,,70.07,7,Low,4,Moderate,5.7,Low,Positive
+AIW-0516,2026,Germany,Manufacturing,Medium (51-250),Product Manager,45-54,Moderate,Research & Analysis Agent,11,,15.6,Advanced,23,26.87,5,High,3,High,13.5,Low,Neutral
+AIW-0517,2026,Netherlands,Consulting & Professional Services,Large (251-1000),Customer Support Agent,45-54,High,Customer Service Agent,104,26.0,32.1,Advanced,,139.03,7,LOW,5,High,7.3,High,Highly Positive
+AIW-0518,2026,Australia,Manufacturing,Enterprise (1000+),HR Specialist,35-44,Moderate,Content Generation Agent,11,0.9,1.7,Intermediate,0,76.0,5,Very High,5,Moderate,15.8,High,Negative
+AIW-0519,2026,South Africa,Telecommunications,Enterprise (1000+),Sales Representative,35-44,Moderate,Multi-Agent System,24,6.1,9.4,Intermediate,3,133.26,7,Moderate,4,Moderate,8.9,High,Neutral
+AIW-0520,2025,United States,Technology,Small (1-50),Sales Representative,45-54,Moderate,Content Generation Agent,21,2.3,6.1,Intermediate,,37.9,8,High,6,Moderate,7.5,High,Positive
+AIW-0521,2026,Brazil,Retail & E-commerce,Small (1-50),Marketing Specialist,25-34,Moderate,Content Generation Agent,8,5.3,0.7,Beginner,0,31.37,7,Low,4,Low,7.8,High,Positive
+AIW-0522,2025,India,Education,Medium (51-250),Product Manager,35-44,Moderate,Content Generation Agent,13,5.2,10.4,Intermediate,19,28.71,7,Moderate,5,Moderate,5.1,Moderate,Highly Positive
+AIW-0523,2025,Pakistan,Telecommunications,Medium (51-250),Financial Analyst,25-34,Moderate,Research & Analysis Agent,10,1.7,0.4,Intermediate,1,67.56,7,Moderate,5,Low,12.2,High,Neutral
